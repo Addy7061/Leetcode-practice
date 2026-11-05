@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-05T09:17:40.585Z",
+  "updatedAt": "2026-11-05T09:19:20.015Z",
   "problems": [
     {
       "frontendId": "88",
@@ -84,6 +84,26 @@
           "path": "Leetcode-practice/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "9bdff67f12f10cb9380cc37ff236ca0cd7be2fcd",
           "lastSyncedAt": "2026-11-05T09:16:02.544Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2840",
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+      "problemName": "2840-check-if-strings-can-be-made-equal-with-operations-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/",
+      "folderPath": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/",
+      "readmePath": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2840-check-if-strings-can-be-made-equal-with-operations-ii.java",
+          "path": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.java",
+          "sha": "d5d14f3db8df8bcbcb2743c937d08679381f8436",
+          "lastSyncedAt": "2026-11-05T09:19:20.015Z"
         }
       ]
     }
