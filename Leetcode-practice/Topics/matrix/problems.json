@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-05T09:18:08.189Z",
+  "updatedAt": "2026-11-05T09:19:36.834Z",
   "problems": [
     {
       "frontendId": "74",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "301090bcb78faf60180574fc15a13323b6afbc3b",
           "lastSyncedAt": "2026-11-05T09:18:08.189Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2573",
+      "title": "Find the String with LCP",
+      "slug": "find-the-string-with-lcp",
+      "problemName": "2573-find-the-string-with-lcp",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-string-with-lcp/",
+      "folderPath": "Leetcode-practice/2573-find-the-string-with-lcp/",
+      "readmePath": "Leetcode-practice/2573-find-the-string-with-lcp/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2573-find-the-string-with-lcp.java",
+          "path": "Leetcode-practice/2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.java",
+          "sha": "52b6f8f72c2f722f8bba2375e4f9415e6cced328",
+          "lastSyncedAt": "2026-11-05T09:19:36.834Z"
         }
       ]
     }
