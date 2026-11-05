@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-05T09:19:20.015Z",
+  "updatedAt": "2026-11-05T09:19:30.567Z",
   "problems": [
+    {
+      "frontendId": "2839",
+      "title": "Check if Strings Can be Made Equal With Operations I",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-i",
+      "problemName": "2839-check-if-strings-can-be-made-equal-with-operations-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/",
+      "folderPath": "Leetcode-practice/2839-check-if-strings-can-be-made-equal-with-operations-i/",
+      "readmePath": "Leetcode-practice/2839-check-if-strings-can-be-made-equal-with-operations-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2839-check-if-strings-can-be-made-equal-with-operations-i.java",
+          "path": "Leetcode-practice/2839-check-if-strings-can-be-made-equal-with-operations-i/2839-check-if-strings-can-be-made-equal-with-operations-i.java",
+          "sha": "f60531a07805539556b00e10613ba527b1266516",
+          "lastSyncedAt": "2026-11-05T09:19:30.567Z"
+        }
+      ]
+    },
     {
       "frontendId": "2840",
       "title": "Check if Strings Can be Made Equal With Operations II",
