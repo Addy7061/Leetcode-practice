@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-05T09:18:53.308Z",
+  "updatedAt": "2026-11-05T09:19:20.015Z",
   "problems": [
+    {
+      "frontendId": "2840",
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+      "problemName": "2840-check-if-strings-can-be-made-equal-with-operations-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/",
+      "folderPath": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/",
+      "readmePath": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2840-check-if-strings-can-be-made-equal-with-operations-ii.java",
+          "path": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.java",
+          "sha": "d5d14f3db8df8bcbcb2743c937d08679381f8436",
+          "lastSyncedAt": "2026-11-05T09:19:20.015Z"
+        }
+      ]
+    },
     {
       "frontendId": "3488",
       "title": "Closest Equal Element Queries",
