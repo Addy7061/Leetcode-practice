@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:16:24.852Z",
+  "updatedAt": "2026-11-05T09:16:47.886Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "Leetcode-practice/0004-median-of-two-sorted-arrays/",
+      "readmePath": "Leetcode-practice/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0004-median-of-two-sorted-arrays.java",
+          "path": "Leetcode-practice/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
+          "sha": "35b2f2bb943d21e94e75699099adf0ff23514ccc",
+          "lastSyncedAt": "2026-11-05T09:16:47.886Z"
+        }
+      ]
+    },
     {
       "frontendId": "215",
       "title": "Kth Largest Element in an Array",
