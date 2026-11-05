@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-11-05T09:18:39.369Z",
+  "problems": [
+    {
+      "frontendId": "3761",
+      "title": "Minimum Absolute Distance Between Mirror Pairs",
+      "slug": "minimum-absolute-distance-between-mirror-pairs",
+      "problemName": "3761-minimum-absolute-distance-between-mirror-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/",
+      "folderPath": "Leetcode-practice/3761-minimum-absolute-distance-between-mirror-pairs/",
+      "readmePath": "Leetcode-practice/3761-minimum-absolute-distance-between-mirror-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3761-minimum-absolute-distance-between-mirror-pairs.java",
+          "path": "Leetcode-practice/3761-minimum-absolute-distance-between-mirror-pairs/3761-minimum-absolute-distance-between-mirror-pairs.java",
+          "sha": "fd30b2bc61446bafbfdd0008db4eb5643572488c",
+          "lastSyncedAt": "2026-11-05T09:18:39.369Z"
+        }
+      ]
+    }
+  ]
+}
