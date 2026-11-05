@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:17:10.427Z",
+  "updatedAt": "2026-11-05T09:17:40.585Z",
   "problems": [
     {
       "frontendId": "4",
@@ -44,6 +44,26 @@
           "path": "Leetcode-practice/0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "3573d72b58668ea2319c499e26d99a09384887f4",
           "lastSyncedAt": "2026-11-05T09:16:57.981Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "Leetcode-practice/0088-merge-sorted-array/",
+      "readmePath": "Leetcode-practice/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0088-merge-sorted-array.java",
+          "path": "Leetcode-practice/0088-merge-sorted-array/0088-merge-sorted-array.java",
+          "sha": "acf618a3b8d77a9ea5867178f94c6f5bbf62b25a",
+          "lastSyncedAt": "2026-11-05T09:17:40.585Z"
         }
       ]
     },
