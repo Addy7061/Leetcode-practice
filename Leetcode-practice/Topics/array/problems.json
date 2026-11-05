@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:18:53.308Z",
+  "updatedAt": "2026-11-05T09:19:36.834Z",
   "problems": [
     {
       "frontendId": "4",
@@ -224,6 +224,26 @@
           "path": "Leetcode-practice/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "9bdff67f12f10cb9380cc37ff236ca0cd7be2fcd",
           "lastSyncedAt": "2026-11-05T09:16:02.544Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2573",
+      "title": "Find the String with LCP",
+      "slug": "find-the-string-with-lcp",
+      "problemName": "2573-find-the-string-with-lcp",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-string-with-lcp/",
+      "folderPath": "Leetcode-practice/2573-find-the-string-with-lcp/",
+      "readmePath": "Leetcode-practice/2573-find-the-string-with-lcp/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2573-find-the-string-with-lcp.java",
+          "path": "Leetcode-practice/2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.java",
+          "sha": "52b6f8f72c2f722f8bba2375e4f9415e6cced328",
+          "lastSyncedAt": "2026-11-05T09:19:36.834Z"
         }
       ]
     },
