@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:19:36.834Z",
+  "updatedAt": "2026-11-05T09:19:53.773Z",
   "problems": [
     {
       "frontendId": "4",
@@ -244,6 +244,26 @@
           "path": "Leetcode-practice/2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.java",
           "sha": "52b6f8f72c2f722f8bba2375e4f9415e6cced328",
           "lastSyncedAt": "2026-11-05T09:19:36.834Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2946",
+      "title": "Matrix Similarity After Cyclic Shifts",
+      "slug": "matrix-similarity-after-cyclic-shifts",
+      "problemName": "2946-matrix-similarity-after-cyclic-shifts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
+      "folderPath": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/",
+      "readmePath": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2946-matrix-similarity-after-cyclic-shifts.java",
+          "path": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.java",
+          "sha": "98a1938ef88c714cb7aba6504ac7fafd80c31f04",
+          "lastSyncedAt": "2026-11-05T09:19:53.773Z"
         }
       ]
     },
