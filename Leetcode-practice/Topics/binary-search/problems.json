@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T09:18:08.189Z",
+  "updatedAt": "2026-11-05T09:18:21.700Z",
   "problems": [
     {
       "frontendId": "4",
@@ -44,6 +44,26 @@
           "path": "Leetcode-practice/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.java",
           "sha": "8f66ffc84e87431831a080009f2faa0c0ccbdee8",
           "lastSyncedAt": "2026-11-05T09:18:00.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "Leetcode-practice/0035-search-insert-position/",
+      "readmePath": "Leetcode-practice/0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0035-search-insert-position.java",
+          "path": "Leetcode-practice/0035-search-insert-position/0035-search-insert-position.java",
+          "sha": "234e214adb0c77e8a8dcbae0c846bccf744116fa",
+          "lastSyncedAt": "2026-11-05T09:18:21.700Z"
         }
       ]
     },
