@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-05T09:20:28.320Z",
+  "updatedAt": "2026-11-05T09:20:40.802Z",
   "problems": [
     {
       "frontendId": "74",
@@ -44,6 +44,26 @@
           "path": "Leetcode-practice/2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.java",
           "sha": "52b6f8f72c2f722f8bba2375e4f9415e6cced328",
           "lastSyncedAt": "2026-11-05T09:19:36.834Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2906",
+      "title": "Construct Product Matrix",
+      "slug": "construct-product-matrix",
+      "problemName": "2906-construct-product-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-product-matrix/",
+      "folderPath": "Leetcode-practice/2906-construct-product-matrix/",
+      "readmePath": "Leetcode-practice/2906-construct-product-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2906-construct-product-matrix.java",
+          "path": "Leetcode-practice/2906-construct-product-matrix/2906-construct-product-matrix.java",
+          "sha": "cf7b674729be822ee26f7a81f4bddeda0681b804",
+          "lastSyncedAt": "2026-11-05T09:20:40.802Z"
         }
       ]
     },
