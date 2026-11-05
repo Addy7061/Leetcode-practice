@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T09:18:21.700Z",
+  "updatedAt": "2026-11-05T09:18:30.557Z",
   "problems": [
     {
       "frontendId": "4",
@@ -104,6 +104,26 @@
           "path": "Leetcode-practice/0162-find-peak-element/0162-find-peak-element.java",
           "sha": "9ae5e8f1513eae85a8e774298f21af81ef13a30f",
           "lastSyncedAt": "2026-11-05T09:17:52.601Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "Leetcode-practice/0704-binary-search/",
+      "readmePath": "Leetcode-practice/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0704-binary-search.java",
+          "path": "Leetcode-practice/0704-binary-search/0704-binary-search.java",
+          "sha": "81292450927b01e1a8c0578d04b39fe49fb1c99f",
+          "lastSyncedAt": "2026-11-05T09:18:30.557Z"
         }
       ]
     },
