@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T09:16:47.886Z",
+  "updatedAt": "2026-11-05T09:17:52.601Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "35b2f2bb943d21e94e75699099adf0ff23514ccc",
           "lastSyncedAt": "2026-11-05T09:16:47.886Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "Leetcode-practice/0162-find-peak-element/",
+      "readmePath": "Leetcode-practice/0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "Leetcode-practice/0162-find-peak-element/0162-find-peak-element.java",
+          "sha": "9ae5e8f1513eae85a8e774298f21af81ef13a30f",
+          "lastSyncedAt": "2026-11-05T09:17:52.601Z"
         }
       ]
     },
