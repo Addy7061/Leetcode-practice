@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-05T09:20:08.831Z",
+  "updatedAt": "2026-11-05T09:20:28.320Z",
   "problems": [
     {
       "frontendId": "74",
@@ -64,6 +64,26 @@
           "path": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.java",
           "sha": "98a1938ef88c714cb7aba6504ac7fafd80c31f04",
           "lastSyncedAt": "2026-11-05T09:19:53.773Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3546",
+      "title": "Equal Sum Grid Partition I",
+      "slug": "equal-sum-grid-partition-i",
+      "problemName": "3546-equal-sum-grid-partition-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
+      "folderPath": "Leetcode-practice/3546-equal-sum-grid-partition-i/",
+      "readmePath": "Leetcode-practice/3546-equal-sum-grid-partition-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3546-equal-sum-grid-partition-i.java",
+          "path": "Leetcode-practice/3546-equal-sum-grid-partition-i/3546-equal-sum-grid-partition-i.java",
+          "sha": "eb8720bc7b383e23945b3e5c956458b4afd367e4",
+          "lastSyncedAt": "2026-11-05T09:20:28.320Z"
         }
       ]
     },
