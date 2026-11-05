@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:16:02.544Z",
+  "updatedAt": "2026-11-05T09:16:24.852Z",
   "problems": [
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "Leetcode-practice/0215-kth-largest-element-in-an-array/",
+      "readmePath": "Leetcode-practice/0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0215-kth-largest-element-in-an-array.java",
+          "path": "Leetcode-practice/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
+          "sha": "b553238b9bffef92e99b2b26a57bb60946e7acf4",
+          "lastSyncedAt": "2026-11-05T09:16:24.852Z"
+        }
+      ]
+    },
     {
       "frontendId": "1385",
       "title": "Find the Distance Value Between Two Arrays",
