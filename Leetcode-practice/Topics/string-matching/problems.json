@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string-matching",
+    "name": "String Matching",
+    "tagId": "61052"
+  },
+  "updatedAt": "2026-11-05T09:19:04.145Z",
+  "problems": [
+    {
+      "frontendId": "3474",
+      "title": "Lexicographically Smallest Generated String",
+      "slug": "lexicographically-smallest-generated-string",
+      "problemName": "3474-lexicographically-smallest-generated-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-generated-string/",
+      "folderPath": "Leetcode-practice/3474-lexicographically-smallest-generated-string/",
+      "readmePath": "Leetcode-practice/3474-lexicographically-smallest-generated-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3474-lexicographically-smallest-generated-string.java",
+          "path": "Leetcode-practice/3474-lexicographically-smallest-generated-string/3474-lexicographically-smallest-generated-string.java",
+          "sha": "b891135b9a462e6f59ed59ac3362412fefb25233",
+          "lastSyncedAt": "2026-11-05T09:19:04.145Z"
+        }
+      ]
+    }
+  ]
+}
