@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:18:00.197Z",
+  "updatedAt": "2026-11-05T09:18:08.189Z",
   "problems": [
     {
       "frontendId": "4",
@@ -64,6 +64,26 @@
           "path": "Leetcode-practice/0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "3573d72b58668ea2319c499e26d99a09384887f4",
           "lastSyncedAt": "2026-11-05T09:16:57.981Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "Leetcode-practice/0074-search-a-2d-matrix/",
+      "readmePath": "Leetcode-practice/0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0074-search-a-2d-matrix.java",
+          "path": "Leetcode-practice/0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
+          "sha": "301090bcb78faf60180574fc15a13323b6afbc3b",
+          "lastSyncedAt": "2026-11-05T09:18:08.189Z"
         }
       ]
     },
