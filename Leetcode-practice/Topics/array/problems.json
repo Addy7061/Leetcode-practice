@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:17:40.585Z",
+  "updatedAt": "2026-11-05T09:17:52.601Z",
   "problems": [
     {
       "frontendId": "4",
@@ -64,6 +64,26 @@
           "path": "Leetcode-practice/0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "acf618a3b8d77a9ea5867178f94c6f5bbf62b25a",
           "lastSyncedAt": "2026-11-05T09:17:40.585Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "Leetcode-practice/0162-find-peak-element/",
+      "readmePath": "Leetcode-practice/0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "Leetcode-practice/0162-find-peak-element/0162-find-peak-element.java",
+          "sha": "9ae5e8f1513eae85a8e774298f21af81ef13a30f",
+          "lastSyncedAt": "2026-11-05T09:17:52.601Z"
         }
       ]
     },
