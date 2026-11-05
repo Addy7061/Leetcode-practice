@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:21:09.678Z",
+  "updatedAt": "2026-11-05T09:21:19.124Z",
   "problems": [
     {
       "frontendId": "4",
@@ -384,6 +384,26 @@
           "path": "Leetcode-practice/3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.py",
           "sha": "9fbe8f054b88c4ab848b8a24c0755600f4ff3d4b",
           "lastSyncedAt": "2026-11-05T09:20:08.831Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3567",
+      "title": "Minimum Absolute Difference in Sliding Submatrix",
+      "slug": "minimum-absolute-difference-in-sliding-submatrix",
+      "problemName": "3567-minimum-absolute-difference-in-sliding-submatrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/",
+      "folderPath": "Leetcode-practice/3567-minimum-absolute-difference-in-sliding-submatrix/",
+      "readmePath": "Leetcode-practice/3567-minimum-absolute-difference-in-sliding-submatrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3567-minimum-absolute-difference-in-sliding-submatrix.cpp",
+          "path": "Leetcode-practice/3567-minimum-absolute-difference-in-sliding-submatrix/3567-minimum-absolute-difference-in-sliding-submatrix.cpp",
+          "sha": "0fa4269c82e32d3c6558d587386294eca0267595",
+          "lastSyncedAt": "2026-11-05T09:21:19.124Z"
         }
       ]
     },
