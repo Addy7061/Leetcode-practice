@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-05T09:19:20.015Z",
+  "updatedAt": "2026-11-05T09:20:08.831Z",
   "problems": [
     {
       "frontendId": "2840",
@@ -44,6 +44,26 @@
           "path": "Leetcode-practice/3488-closest-equal-element-queries/3488-closest-equal-element-queries.java",
           "sha": "9c66f120fa8fda6580ae68e30f31b93cf1aaa0af",
           "lastSyncedAt": "2026-11-05T09:18:53.308Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3548",
+      "title": "Equal Sum Grid Partition II",
+      "slug": "equal-sum-grid-partition-ii",
+      "problemName": "3548-equal-sum-grid-partition-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
+      "folderPath": "Leetcode-practice/3548-equal-sum-grid-partition-ii/",
+      "readmePath": "Leetcode-practice/3548-equal-sum-grid-partition-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3548-equal-sum-grid-partition-ii.py",
+          "path": "Leetcode-practice/3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.py",
+          "sha": "9fbe8f054b88c4ab848b8a24c0755600f4ff3d4b",
+          "lastSyncedAt": "2026-11-05T09:20:08.831Z"
         }
       ]
     },
