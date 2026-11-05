@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:18:21.700Z",
+  "updatedAt": "2026-11-05T09:18:30.557Z",
   "problems": [
     {
       "frontendId": "4",
@@ -164,6 +164,26 @@
           "path": "Leetcode-practice/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "b553238b9bffef92e99b2b26a57bb60946e7acf4",
           "lastSyncedAt": "2026-11-05T09:16:24.852Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "Leetcode-practice/0704-binary-search/",
+      "readmePath": "Leetcode-practice/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0704-binary-search.java",
+          "path": "Leetcode-practice/0704-binary-search/0704-binary-search.java",
+          "sha": "81292450927b01e1a8c0578d04b39fe49fb1c99f",
+          "lastSyncedAt": "2026-11-05T09:18:30.557Z"
         }
       ]
     },
