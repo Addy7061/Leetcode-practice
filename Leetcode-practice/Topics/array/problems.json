@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:17:52.601Z",
+  "updatedAt": "2026-11-05T09:18:00.197Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "35b2f2bb943d21e94e75699099adf0ff23514ccc",
           "lastSyncedAt": "2026-11-05T09:16:47.886Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "Leetcode-practice/0033-search-in-rotated-sorted-array/",
+      "readmePath": "Leetcode-practice/0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0033-search-in-rotated-sorted-array.java",
+          "path": "Leetcode-practice/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.java",
+          "sha": "8f66ffc84e87431831a080009f2faa0c0ccbdee8",
+          "lastSyncedAt": "2026-11-05T09:18:00.197Z"
         }
       ]
     },
