@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-05T09:20:40.802Z",
+  "updatedAt": "2026-11-05T09:20:50.236Z",
   "problems": [
     {
       "frontendId": "74",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "301090bcb78faf60180574fc15a13323b6afbc3b",
           "lastSyncedAt": "2026-11-05T09:18:08.189Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1886",
+      "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+      "slug": "determine-whether-matrix-can-be-obtained-by-rotation",
+      "problemName": "1886-determine-whether-matrix-can-be-obtained-by-rotation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+      "folderPath": "Leetcode-practice/1886-determine-whether-matrix-can-be-obtained-by-rotation/",
+      "readmePath": "Leetcode-practice/1886-determine-whether-matrix-can-be-obtained-by-rotation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1886-determine-whether-matrix-can-be-obtained-by-rotation.java",
+          "path": "Leetcode-practice/1886-determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.java",
+          "sha": "3779b6ddc170ecba2cef00c530c24c7cee2197b1",
+          "lastSyncedAt": "2026-11-05T09:20:50.236Z"
         }
       ]
     },
