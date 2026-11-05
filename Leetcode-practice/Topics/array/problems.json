@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:18:39.369Z",
+  "updatedAt": "2026-11-05T09:18:53.308Z",
   "problems": [
     {
       "frontendId": "4",
@@ -224,6 +224,26 @@
           "path": "Leetcode-practice/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "9bdff67f12f10cb9380cc37ff236ca0cd7be2fcd",
           "lastSyncedAt": "2026-11-05T09:16:02.544Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3488",
+      "title": "Closest Equal Element Queries",
+      "slug": "closest-equal-element-queries",
+      "problemName": "3488-closest-equal-element-queries",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/closest-equal-element-queries/",
+      "folderPath": "Leetcode-practice/3488-closest-equal-element-queries/",
+      "readmePath": "Leetcode-practice/3488-closest-equal-element-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3488-closest-equal-element-queries.java",
+          "path": "Leetcode-practice/3488-closest-equal-element-queries/3488-closest-equal-element-queries.java",
+          "sha": "9c66f120fa8fda6580ae68e30f31b93cf1aaa0af",
+          "lastSyncedAt": "2026-11-05T09:18:53.308Z"
         }
       ]
     },
