@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "radix-sort",
+    "name": "Radix Sort",
+    "tagId": "61061"
+  },
+  "updatedAt": "2026-11-05T09:17:10.427Z",
+  "problems": [
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "Leetcode-practice/0912-sort-an-array/",
+      "readmePath": "Leetcode-practice/0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "Leetcode-practice/0912-sort-an-array/0912-sort-an-array.java",
+          "sha": "29f552cab5826ab58b982e73f73149f1d2894f6e",
+          "lastSyncedAt": "2026-11-05T09:17:10.427Z"
+        }
+      ]
+    }
+  ]
+}
