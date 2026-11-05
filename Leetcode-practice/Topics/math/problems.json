@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-05T09:18:39.369Z",
+  "updatedAt": "2026-11-05T09:19:53.773Z",
   "problems": [
+    {
+      "frontendId": "2946",
+      "title": "Matrix Similarity After Cyclic Shifts",
+      "slug": "matrix-similarity-after-cyclic-shifts",
+      "problemName": "2946-matrix-similarity-after-cyclic-shifts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
+      "folderPath": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/",
+      "readmePath": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2946-matrix-similarity-after-cyclic-shifts.java",
+          "path": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.java",
+          "sha": "98a1938ef88c714cb7aba6504ac7fafd80c31f04",
+          "lastSyncedAt": "2026-11-05T09:19:53.773Z"
+        }
+      ]
+    },
     {
       "frontendId": "3761",
       "title": "Minimum Absolute Distance Between Mirror Pairs",
