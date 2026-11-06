@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T09:21:19.124Z",
+  "updatedAt": "2026-11-06T08:39:46.832Z",
   "problems": [
     {
       "frontendId": "4",
@@ -284,6 +284,26 @@
           "path": "Leetcode-practice/2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.java",
           "sha": "52b6f8f72c2f722f8bba2375e4f9415e6cced328",
           "lastSyncedAt": "2026-11-05T09:19:36.834Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "Leetcode-practice/2747-count-zero-request-servers/",
+      "readmePath": "Leetcode-practice/2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2747-count-zero-request-servers.java",
+          "path": "Leetcode-practice/2747-count-zero-request-servers/2747-count-zero-request-servers.java",
+          "sha": "536c9445b90f2241675aee77ecd426cafd40968f",
+          "lastSyncedAt": "2026-11-06T08:39:46.832Z"
         }
       ]
     },
