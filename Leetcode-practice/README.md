@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 8 | 13 | 4 |
+| 26 | 9 | 13 | 4 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-04-17 | 1 |
 | 2026-07-27 | 4 |
 | 2026-11-05 | 1 |
-| 2026-11-06 | 1 |
+| 2026-11-06 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 88% |
-| Matrix | 9 | 36% |
-| Binary Search | 8 | 32% |
-| Sorting | 6 | 24% |
-| Hash Table | 5 | 20% |
-| Divide and Conquer | 4 | 16% |
-| String | 4 | 16% |
+| Array | 22 | 85% |
+| Matrix | 9 | 35% |
+| Binary Search | 8 | 31% |
+| Sorting | 6 | 23% |
+| Hash Table | 5 | 19% |
+| Divide and Conquer | 4 | 15% |
+| String | 4 | 15% |
 | Dynamic Programming | 3 | 12% |
 | Prefix Sum | 3 | 12% |
 | Two Pointers | 3 | 12% |
@@ -51,8 +51,10 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [Array](Topics/array/) | 23 |
 | [Binary Search](Topics/binary-search/) | 8 |
+| [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
+| [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
@@ -68,8 +70,10 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 6 |
+| [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 4 |
 | [String Matching](Topics/string-matching/) | 1 |
+| [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
