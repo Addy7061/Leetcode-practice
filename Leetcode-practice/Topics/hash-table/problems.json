@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-05T09:20:08.831Z",
+  "updatedAt": "2026-11-06T08:39:46.832Z",
   "problems": [
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "Leetcode-practice/2747-count-zero-request-servers/",
+      "readmePath": "Leetcode-practice/2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2747-count-zero-request-servers.java",
+          "path": "Leetcode-practice/2747-count-zero-request-servers/2747-count-zero-request-servers.java",
+          "sha": "536c9445b90f2241675aee77ecd426cafd40968f",
+          "lastSyncedAt": "2026-11-06T08:39:46.832Z"
+        }
+      ]
+    },
     {
       "frontendId": "2840",
       "title": "Check if Strings Can be Made Equal With Operations II",
