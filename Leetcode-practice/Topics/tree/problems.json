@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "tree",
+    "name": "Tree",
+    "tagId": "20"
+  },
+  "updatedAt": "2026-11-06T09:00:41.240Z",
+  "problems": [
+    {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "problemName": "0094-binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "folderPath": "Leetcode-practice/0094-binary-tree-inorder-traversal/",
+      "readmePath": "Leetcode-practice/0094-binary-tree-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0094-binary-tree-inorder-traversal.java",
+          "path": "Leetcode-practice/0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
+          "sha": "a37c4cb6b2ce746dfc231e6250b5f6dd907cc07f",
+          "lastSyncedAt": "2026-11-06T09:00:41.240Z"
+        }
+      ]
+    }
+  ]
+}
