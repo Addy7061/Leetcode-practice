@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation",
+    "tagId": "19"
+  },
+  "updatedAt": "2026-11-16T15:02:39.881Z",
+  "problems": [
+    {
+      "frontendId": "89",
+      "title": "Gray Code",
+      "slug": "gray-code",
+      "problemName": "0089-gray-code",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gray-code/",
+      "folderPath": "Leetcode-practice/0089-gray-code/",
+      "readmePath": "Leetcode-practice/0089-gray-code/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0089-gray-code.java",
+          "path": "Leetcode-practice/0089-gray-code/0089-gray-code.java",
+          "sha": "5f31f7cbbb1a1691e825483618c243621dc58aa4",
+          "lastSyncedAt": "2026-11-16T15:02:39.881Z"
+        }
+      ]
+    }
+  ]
+}
