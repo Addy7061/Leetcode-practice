@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:39:46.832Z",
+  "updatedAt": "2026-11-16T14:56:01.815Z",
   "problems": [
     {
       "frontendId": "4",
@@ -303,7 +303,7 @@
           "filename": "2747-count-zero-request-servers.java",
           "path": "Leetcode-practice/2747-count-zero-request-servers/2747-count-zero-request-servers.java",
           "sha": "536c9445b90f2241675aee77ecd426cafd40968f",
-          "lastSyncedAt": "2026-11-06T08:39:46.832Z"
+          "lastSyncedAt": "2026-11-16T14:56:01.815Z"
         }
       ]
     },
