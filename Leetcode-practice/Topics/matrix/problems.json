@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-16T14:59:54.325Z",
+  "updatedAt": "2026-11-16T15:00:09.146Z",
   "problems": [
     {
       "frontendId": "74",
@@ -64,6 +64,26 @@
           "path": "Leetcode-practice/1727-largest-submatrix-with-rearrangements/1727-largest-submatrix-with-rearrangements.java",
           "sha": "6aa740be5c81d36b089982e1e6f25324660cf2e0",
           "lastSyncedAt": "2026-11-16T14:59:54.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1878",
+      "title": "Get Biggest Three Rhombus Sums in a Grid",
+      "slug": "get-biggest-three-rhombus-sums-in-a-grid",
+      "problemName": "1878-get-biggest-three-rhombus-sums-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/",
+      "folderPath": "Leetcode-practice/1878-get-biggest-three-rhombus-sums-in-a-grid/",
+      "readmePath": "Leetcode-practice/1878-get-biggest-three-rhombus-sums-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1878-get-biggest-three-rhombus-sums-in-a-grid.java",
+          "path": "Leetcode-practice/1878-get-biggest-three-rhombus-sums-in-a-grid/1878-get-biggest-three-rhombus-sums-in-a-grid.java",
+          "sha": "d7e5f69c5ff74be5e0f279cd55aa8a0612d80e19",
+          "lastSyncedAt": "2026-11-16T15:00:09.146Z"
         }
       ]
     },
