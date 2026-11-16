@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-16T15:04:06.658Z",
+  "updatedAt": "2026-11-16T15:04:14.432Z",
   "problems": [
     {
       "frontendId": "4",
@@ -83,7 +83,7 @@
           "filename": "0912-sort-an-array.java",
           "path": "Leetcode-practice/0912-sort-an-array/0912-sort-an-array.java",
           "sha": "29f552cab5826ab58b982e73f73149f1d2894f6e",
-          "lastSyncedAt": "2026-11-16T14:56:45.784Z"
+          "lastSyncedAt": "2026-11-16T15:04:14.432Z"
         }
       ]
     }
