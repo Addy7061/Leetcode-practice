@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T14:57:40.480Z",
+  "updatedAt": "2026-11-16T14:57:47.847Z",
   "problems": [
     {
       "frontendId": "2747",
@@ -63,7 +63,7 @@
           "filename": "3488-closest-equal-element-queries.java",
           "path": "Leetcode-practice/3488-closest-equal-element-queries/3488-closest-equal-element-queries.java",
           "sha": "9c66f120fa8fda6580ae68e30f31b93cf1aaa0af",
-          "lastSyncedAt": "2026-11-05T09:18:53.308Z"
+          "lastSyncedAt": "2026-11-16T14:57:47.847Z"
         }
       ]
     },
