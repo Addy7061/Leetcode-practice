@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-16T14:59:43.735Z",
+  "updatedAt": "2026-11-16T15:00:09.146Z",
   "problems": [
+    {
+      "frontendId": "1878",
+      "title": "Get Biggest Three Rhombus Sums in a Grid",
+      "slug": "get-biggest-three-rhombus-sums-in-a-grid",
+      "problemName": "1878-get-biggest-three-rhombus-sums-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/",
+      "folderPath": "Leetcode-practice/1878-get-biggest-three-rhombus-sums-in-a-grid/",
+      "readmePath": "Leetcode-practice/1878-get-biggest-three-rhombus-sums-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1878-get-biggest-three-rhombus-sums-in-a-grid.java",
+          "path": "Leetcode-practice/1878-get-biggest-three-rhombus-sums-in-a-grid/1878-get-biggest-three-rhombus-sums-in-a-grid.java",
+          "sha": "d7e5f69c5ff74be5e0f279cd55aa8a0612d80e19",
+          "lastSyncedAt": "2026-11-16T15:00:09.146Z"
+        }
+      ]
+    },
     {
       "frontendId": "2906",
       "title": "Construct Product Matrix",
