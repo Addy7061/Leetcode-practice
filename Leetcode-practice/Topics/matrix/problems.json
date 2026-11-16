@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-16T14:59:22.332Z",
+  "updatedAt": "2026-11-16T14:59:32.892Z",
   "problems": [
     {
       "frontendId": "74",
@@ -124,6 +124,26 @@
           "path": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.java",
           "sha": "98a1938ef88c714cb7aba6504ac7fafd80c31f04",
           "lastSyncedAt": "2026-11-16T14:58:25.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3070",
+      "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+      "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "problemName": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/",
+      "folderPath": "Leetcode-practice/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/",
+      "readmePath": "Leetcode-practice/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k.java",
+          "path": "Leetcode-practice/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.java",
+          "sha": "0bdbc8c7db995a97a2cd6ad36f37b084bce45811",
+          "lastSyncedAt": "2026-11-16T14:59:32.892Z"
         }
       ]
     },
