@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 9 | 13 | 4 |
+| 27 | 10 | 13 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 5 days | 19 |
+| 1 days | 5 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-03-21 | 1 |
 | 2026-03-23 | 2 |
 | 2026-03-24 | 1 |
 | 2026-03-25 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-07-27 | 4 |
 | 2026-11-05 | 1 |
 | 2026-11-06 | 2 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 85% |
-| Matrix | 9 | 35% |
-| Binary Search | 8 | 31% |
-| Sorting | 6 | 23% |
+| Array | 22 | 81% |
+| Matrix | 9 | 33% |
+| Binary Search | 8 | 30% |
+| Sorting | 6 | 22% |
 | Hash Table | 5 | 19% |
+| String | 5 | 19% |
 | Divide and Conquer | 4 | 15% |
-| String | 4 | 15% |
-| Dynamic Programming | 3 | 12% |
-| Prefix Sum | 3 | 12% |
-| Two Pointers | 3 | 12% |
+| Dynamic Programming | 3 | 11% |
+| Prefix Sum | 3 | 11% |
+| Two Pointers | 3 | 11% |
 
 ## Topics
 
@@ -67,11 +67,11 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
