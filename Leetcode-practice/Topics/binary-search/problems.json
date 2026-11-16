@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T09:18:53.308Z",
+  "updatedAt": "2026-11-16T14:56:11.168Z",
   "problems": [
     {
       "frontendId": "4",
@@ -143,7 +143,7 @@
           "filename": "1385-find-the-distance-value-between-two-arrays.java",
           "path": "Leetcode-practice/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "9bdff67f12f10cb9380cc37ff236ca0cd7be2fcd",
-          "lastSyncedAt": "2026-11-05T09:16:02.544Z"
+          "lastSyncedAt": "2026-11-16T14:56:11.168Z"
         }
       ]
     },
