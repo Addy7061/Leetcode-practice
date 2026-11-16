@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 10 | 13 | 4 |
+| 33 | 10 | 18 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 20 |
+| 1 days | 5 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,48 +28,54 @@ Contains topicwise list of solved problems.
 | 2026-07-27 | 4 |
 | 2026-11-05 | 1 |
 | 2026-11-06 | 2 |
-| 2026-11-16 | 1 |
+| 2026-11-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 81% |
-| Matrix | 9 | 33% |
-| Binary Search | 8 | 30% |
-| Sorting | 6 | 22% |
-| Hash Table | 5 | 19% |
-| String | 5 | 19% |
-| Divide and Conquer | 4 | 15% |
-| Dynamic Programming | 3 | 11% |
-| Prefix Sum | 3 | 11% |
-| Two Pointers | 3 | 11% |
+| Array | 26 | 79% |
+| Matrix | 13 | 39% |
+| Binary Search | 8 | 24% |
+| Sorting | 8 | 24% |
+| Prefix Sum | 6 | 18% |
+| Hash Table | 5 | 15% |
+| Math | 5 | 15% |
+| String | 5 | 15% |
+| Divide and Conquer | 4 | 12% |
+| Dynamic Programming | 3 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 27 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
-| [Greedy](Topics/greedy/) | 2 |
+| [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
+| [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 5 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Math](Topics/math/) | 2 |
-| [Matrix](Topics/matrix/) | 9 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
+| [Math](Topics/math/) | 5 |
+| [Matrix](Topics/matrix/) | 14 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Number Theory](Topics/number-theory/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 6 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 6 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 5 |
 | [String Matching](Topics/string-matching/) | 1 |
