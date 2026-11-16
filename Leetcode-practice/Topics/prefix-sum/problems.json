@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-16T14:59:32.892Z",
+  "updatedAt": "2026-11-16T14:59:43.735Z",
   "problems": [
     {
       "frontendId": "2906",
@@ -44,6 +44,26 @@
           "path": "Leetcode-practice/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.java",
           "sha": "0bdbc8c7db995a97a2cd6ad36f37b084bce45811",
           "lastSyncedAt": "2026-11-16T14:59:32.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3212",
+      "title": "Count Submatrices With Equal Frequency of X and Y",
+      "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+      "problemName": "3212-count-submatrices-with-equal-frequency-of-x-and-y",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
+      "folderPath": "Leetcode-practice/3212-count-submatrices-with-equal-frequency-of-x-and-y/",
+      "readmePath": "Leetcode-practice/3212-count-submatrices-with-equal-frequency-of-x-and-y/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3212-count-submatrices-with-equal-frequency-of-x-and-y.java",
+          "path": "Leetcode-practice/3212-count-submatrices-with-equal-frequency-of-x-and-y/3212-count-submatrices-with-equal-frequency-of-x-and-y.java",
+          "sha": "eec8009b8d34f1e4ffa9159753e4df63fbef6cb1",
+          "lastSyncedAt": "2026-11-16T14:59:43.735Z"
         }
       ]
     },
