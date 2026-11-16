@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T14:58:02.965Z",
+  "updatedAt": "2026-11-16T14:58:09.619Z",
   "problems": [
     {
       "frontendId": "2243",
@@ -63,7 +63,7 @@
           "filename": "2839-check-if-strings-can-be-made-equal-with-operations-i.java",
           "path": "Leetcode-practice/2839-check-if-strings-can-be-made-equal-with-operations-i/2839-check-if-strings-can-be-made-equal-with-operations-i.java",
           "sha": "f60531a07805539556b00e10613ba527b1266516",
-          "lastSyncedAt": "2026-11-05T09:19:30.567Z"
+          "lastSyncedAt": "2026-11-16T14:58:09.619Z"
         }
       ]
     },
