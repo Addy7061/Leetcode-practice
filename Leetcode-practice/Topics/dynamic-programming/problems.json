@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-16T14:58:12.000Z",
+  "updatedAt": "2026-11-16T14:59:08.567Z",
   "problems": [
     {
       "frontendId": "53",
@@ -43,7 +43,7 @@
           "filename": "1594-maximum-non-negative-product-in-a-matrix.java",
           "path": "Leetcode-practice/1594-maximum-non-negative-product-in-a-matrix/1594-maximum-non-negative-product-in-a-matrix.java",
           "sha": "76de3f42131806180adad04d1774c304b31f667a",
-          "lastSyncedAt": "2026-11-05T09:20:58.401Z"
+          "lastSyncedAt": "2026-11-16T14:59:08.567Z"
         }
       ]
     },
