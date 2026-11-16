@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-16T14:58:02.965Z",
+  "updatedAt": "2026-11-16T14:59:22.332Z",
   "problems": [
     {
       "frontendId": "88",
@@ -124,6 +124,26 @@
           "path": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.java",
           "sha": "d5d14f3db8df8bcbcb2743c937d08679381f8436",
           "lastSyncedAt": "2026-11-16T14:58:02.965Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3567",
+      "title": "Minimum Absolute Difference in Sliding Submatrix",
+      "slug": "minimum-absolute-difference-in-sliding-submatrix",
+      "problemName": "3567-minimum-absolute-difference-in-sliding-submatrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/",
+      "folderPath": "Leetcode-practice/3567-minimum-absolute-difference-in-sliding-submatrix/",
+      "readmePath": "Leetcode-practice/3567-minimum-absolute-difference-in-sliding-submatrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3567-minimum-absolute-difference-in-sliding-submatrix.cpp",
+          "path": "Leetcode-practice/3567-minimum-absolute-difference-in-sliding-submatrix/3567-minimum-absolute-difference-in-sliding-submatrix.cpp",
+          "sha": "0fa4269c82e32d3c6558d587386294eca0267595",
+          "lastSyncedAt": "2026-11-16T14:59:22.332Z"
         }
       ]
     }
