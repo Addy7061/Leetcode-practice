@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T15:03:27.733Z",
+  "updatedAt": "2026-11-16T15:05:38.036Z",
   "problems": [
     {
       "frontendId": "2747",
@@ -23,7 +23,7 @@
           "filename": "2747-count-zero-request-servers.java",
           "path": "Leetcode-practice/2747-count-zero-request-servers/2747-count-zero-request-servers.java",
           "sha": "536c9445b90f2241675aee77ecd426cafd40968f",
-          "lastSyncedAt": "2026-11-16T15:03:27.733Z"
+          "lastSyncedAt": "2026-11-16T15:05:38.036Z"
         }
       ]
     },
