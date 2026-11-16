@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-05T09:19:53.773Z",
+  "updatedAt": "2026-11-16T14:55:18.122Z",
   "problems": [
+    {
+      "frontendId": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "problemName": "2243-calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "folderPath": "Leetcode-practice/2243-calculate-digit-sum-of-a-string/",
+      "readmePath": "Leetcode-practice/2243-calculate-digit-sum-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2243-calculate-digit-sum-of-a-string.java",
+          "path": "Leetcode-practice/2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.java",
+          "sha": "01abb2e444f120ae7ce031ef2dc24a9e4586f92c",
+          "lastSyncedAt": "2026-11-16T14:55:18.122Z"
+        }
+      ]
+    },
     {
       "frontendId": "2946",
       "title": "Matrix Similarity After Cyclic Shifts",
