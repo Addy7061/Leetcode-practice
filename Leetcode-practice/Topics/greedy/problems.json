@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-16T14:58:12.000Z",
+  "updatedAt": "2026-11-16T14:59:54.325Z",
   "problems": [
+    {
+      "frontendId": "1727",
+      "title": "Largest Submatrix With Rearrangements",
+      "slug": "largest-submatrix-with-rearrangements",
+      "problemName": "1727-largest-submatrix-with-rearrangements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-submatrix-with-rearrangements/",
+      "folderPath": "Leetcode-practice/1727-largest-submatrix-with-rearrangements/",
+      "readmePath": "Leetcode-practice/1727-largest-submatrix-with-rearrangements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1727-largest-submatrix-with-rearrangements.java",
+          "path": "Leetcode-practice/1727-largest-submatrix-with-rearrangements/1727-largest-submatrix-with-rearrangements.java",
+          "sha": "6aa740be5c81d36b089982e1e6f25324660cf2e0",
+          "lastSyncedAt": "2026-11-16T14:59:54.325Z"
+        }
+      ]
+    },
     {
       "frontendId": "2573",
       "title": "Find the String with LCP",
