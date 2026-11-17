@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T15:05:17.384Z",
+  "updatedAt": "2026-11-17T09:28:42.231Z",
   "problems": [
     {
       "frontendId": "2243",
@@ -84,6 +84,26 @@
           "path": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.java",
           "sha": "d5d14f3db8df8bcbcb2743c937d08679381f8436",
           "lastSyncedAt": "2026-11-16T14:58:02.965Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "path": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "sha": "42eafbf00380168af97e19ddf8574b268dc3c964",
+          "lastSyncedAt": "2026-11-17T09:28:42.231Z"
         }
       ]
     },
