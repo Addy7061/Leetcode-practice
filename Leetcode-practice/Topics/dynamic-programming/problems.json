@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-16T15:04:06.658Z",
+  "updatedAt": "2026-11-17T09:28:42.231Z",
   "problems": [
     {
       "frontendId": "53",
@@ -64,6 +64,26 @@
           "path": "Leetcode-practice/2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.java",
           "sha": "52b6f8f72c2f722f8bba2375e4f9415e6cced328",
           "lastSyncedAt": "2026-11-16T14:58:12.000Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "path": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "sha": "42eafbf00380168af97e19ddf8574b268dc3c964",
+          "lastSyncedAt": "2026-11-17T09:28:42.231Z"
         }
       ]
     }
