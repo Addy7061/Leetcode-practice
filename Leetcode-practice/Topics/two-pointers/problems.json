@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-16T15:03:40.531Z",
+  "updatedAt": "2026-11-17T09:28:42.231Z",
   "problems": [
     {
       "frontendId": "88",
@@ -44,6 +44,26 @@
           "path": "Leetcode-practice/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "9bdff67f12f10cb9380cc37ff236ca0cd7be2fcd",
           "lastSyncedAt": "2026-11-16T15:03:40.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "path": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
+          "sha": "42eafbf00380168af97e19ddf8574b268dc3c964",
+          "lastSyncedAt": "2026-11-17T09:28:42.231Z"
         }
       ]
     },
