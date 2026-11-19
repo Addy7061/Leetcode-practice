@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-19T13:47:52.417Z",
+  "updatedAt": "2026-11-19T13:53:54.309Z",
   "problems": [
     {
       "frontendId": "89",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/0089-gray-code/0089-gray-code.java",
           "sha": "5f31f7cbbb1a1691e825483618c243621dc58aa4",
           "lastSyncedAt": "2026-11-19T13:47:52.417Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1009",
+      "title": "Complement of Base 10 Integer",
+      "slug": "complement-of-base-10-integer",
+      "problemName": "1009-complement-of-base-10-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/complement-of-base-10-integer/",
+      "folderPath": "Leetcode-practice/1009-complement-of-base-10-integer/",
+      "readmePath": "Leetcode-practice/1009-complement-of-base-10-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1009-complement-of-base-10-integer.java",
+          "path": "Leetcode-practice/1009-complement-of-base-10-integer/1009-complement-of-base-10-integer.java",
+          "sha": "36b600fa7b3280ec04c35198ad232f58a71a1db4",
+          "lastSyncedAt": "2026-11-19T13:53:54.309Z"
         }
       ]
     }
