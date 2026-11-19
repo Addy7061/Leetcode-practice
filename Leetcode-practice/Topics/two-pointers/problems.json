@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-19T13:47:45.642Z",
+  "updatedAt": "2026-11-19T13:48:34.713Z",
   "problems": [
     {
       "frontendId": "88",
@@ -43,7 +43,7 @@
           "filename": "1385-find-the-distance-value-between-two-arrays.java",
           "path": "Leetcode-practice/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "9bdff67f12f10cb9380cc37ff236ca0cd7be2fcd",
-          "lastSyncedAt": "2026-11-16T15:03:40.531Z"
+          "lastSyncedAt": "2026-11-19T13:48:34.713Z"
         }
       ]
     },
