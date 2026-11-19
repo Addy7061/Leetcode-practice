@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T13:53:18.276Z",
+  "updatedAt": "2026-11-19T13:54:23.602Z",
   "problems": [
     {
       "frontendId": "4",
@@ -324,6 +324,26 @@
           "path": "Leetcode-practice/1886-determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.java",
           "sha": "3779b6ddc170ecba2cef00c530c24c7cee2197b1",
           "lastSyncedAt": "2026-11-19T13:51:43.829Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "problemName": "1980-find-unique-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "folderPath": "Leetcode-practice/1980-find-unique-binary-string/",
+      "readmePath": "Leetcode-practice/1980-find-unique-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1980-find-unique-binary-string.java",
+          "path": "Leetcode-practice/1980-find-unique-binary-string/1980-find-unique-binary-string.java",
+          "sha": "ee343a924900fc4d3e4157527e83ae344ac4cce2",
+          "lastSyncedAt": "2026-11-19T13:54:23.602Z"
         }
       ]
     },
