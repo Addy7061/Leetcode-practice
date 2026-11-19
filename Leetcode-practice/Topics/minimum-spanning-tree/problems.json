@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "minimum-spanning-tree",
+    "name": "Minimum Spanning Tree",
+    "tagId": "61083"
+  },
+  "updatedAt": "2026-11-19T13:53:35.056Z",
+  "problems": [
+    {
+      "frontendId": "3600",
+      "title": "Maximize Spanning Tree Stability with Upgrades",
+      "slug": "maximize-spanning-tree-stability-with-upgrades",
+      "problemName": "3600-maximize-spanning-tree-stability-with-upgrades",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
+      "folderPath": "Leetcode-practice/3600-maximize-spanning-tree-stability-with-upgrades/",
+      "readmePath": "Leetcode-practice/3600-maximize-spanning-tree-stability-with-upgrades/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3600-maximize-spanning-tree-stability-with-upgrades.java",
+          "path": "Leetcode-practice/3600-maximize-spanning-tree-stability-with-upgrades/3600-maximize-spanning-tree-stability-with-upgrades.java",
+          "sha": "4e366afca34424986d4804db4280b6443ba5fda4",
+          "lastSyncedAt": "2026-11-19T13:53:35.056Z"
+        }
+      ]
+    }
+  ]
+}
