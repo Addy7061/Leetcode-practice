@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-19T13:50:18.291Z",
+  "updatedAt": "2026-11-19T13:53:18.276Z",
   "problems": [
     {
       "frontendId": "4",
@@ -144,6 +144,26 @@
           "path": "Leetcode-practice/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "9bdff67f12f10cb9380cc37ff236ca0cd7be2fcd",
           "lastSyncedAt": "2026-11-19T13:48:34.713Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3296",
+      "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+      "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+      "problemName": "3296-minimum-number-of-seconds-to-make-mountain-height-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "folderPath": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "readmePath": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
+          "path": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
+          "sha": "83adfa25d6814f679d5b1e6191a194ff5c1125fc",
+          "lastSyncedAt": "2026-11-19T13:53:18.276Z"
         }
       ]
     },
