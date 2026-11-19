@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T13:51:50.572Z",
+  "updatedAt": "2026-11-19T13:54:02.688Z",
   "problems": [
     {
       "frontendId": "53",
@@ -84,6 +84,26 @@
           "path": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
           "sha": "42eafbf00380168af97e19ddf8574b268dc3c964",
           "lastSyncedAt": "2026-11-19T13:47:45.642Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3130",
+      "title": "Find All Possible Stable Binary Arrays II",
+      "slug": "find-all-possible-stable-binary-arrays-ii",
+      "problemName": "3130-find-all-possible-stable-binary-arrays-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/",
+      "folderPath": "Leetcode-practice/3130-find-all-possible-stable-binary-arrays-ii/",
+      "readmePath": "Leetcode-practice/3130-find-all-possible-stable-binary-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3130-find-all-possible-stable-binary-arrays-ii.java",
+          "path": "Leetcode-practice/3130-find-all-possible-stable-binary-arrays-ii/3130-find-all-possible-stable-binary-arrays-ii.java",
+          "sha": "f49333e245629f94c4b315c67591467a61b77c02",
+          "lastSyncedAt": "2026-11-19T13:54:02.688Z"
         }
       ]
     }
