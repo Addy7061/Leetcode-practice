@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T13:52:14.353Z",
+  "updatedAt": "2026-11-19T13:52:22.096Z",
   "problems": [
     {
       "frontendId": "4",
@@ -463,7 +463,7 @@
           "filename": "3212-count-submatrices-with-equal-frequency-of-x-and-y.java",
           "path": "Leetcode-practice/3212-count-submatrices-with-equal-frequency-of-x-and-y/3212-count-submatrices-with-equal-frequency-of-x-and-y.java",
           "sha": "eec8009b8d34f1e4ffa9159753e4df63fbef6cb1",
-          "lastSyncedAt": "2026-11-16T14:59:43.735Z"
+          "lastSyncedAt": "2026-11-19T13:52:22.096Z"
         }
       ]
     },
