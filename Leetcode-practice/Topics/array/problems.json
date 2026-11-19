@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T13:55:05.587Z",
+  "updatedAt": "2026-11-19T13:55:37.743Z",
   "problems": [
     {
       "frontendId": "4",
@@ -244,6 +244,26 @@
           "path": "Leetcode-practice/1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.java",
           "sha": "87ab68cc94da6328c668d9fea62881335ca87561",
           "lastSyncedAt": "2026-11-19T13:50:45.180Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1536",
+      "title": "Minimum Swaps to Arrange a Binary Grid",
+      "slug": "minimum-swaps-to-arrange-a-binary-grid",
+      "problemName": "1536-minimum-swaps-to-arrange-a-binary-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/",
+      "folderPath": "Leetcode-practice/1536-minimum-swaps-to-arrange-a-binary-grid/",
+      "readmePath": "Leetcode-practice/1536-minimum-swaps-to-arrange-a-binary-grid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1536-minimum-swaps-to-arrange-a-binary-grid.java",
+          "path": "Leetcode-practice/1536-minimum-swaps-to-arrange-a-binary-grid/1536-minimum-swaps-to-arrange-a-binary-grid.java",
+          "sha": "18ce99acca1f0fa4e9f5484c3aeebf84d6687b9f",
+          "lastSyncedAt": "2026-11-19T13:55:37.743Z"
         }
       ]
     },
