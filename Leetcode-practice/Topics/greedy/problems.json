@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-16T14:59:54.325Z",
+  "updatedAt": "2026-11-19T13:48:19.258Z",
   "problems": [
     {
       "frontendId": "1727",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/1727-largest-submatrix-with-rearrangements/1727-largest-submatrix-with-rearrangements.java",
           "sha": "6aa740be5c81d36b089982e1e6f25324660cf2e0",
           "lastSyncedAt": "2026-11-16T14:59:54.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "slug": "minimum-score-by-changing-two-elements",
+      "problemName": "2567-minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+      "folderPath": "Leetcode-practice/2567-minimum-score-by-changing-two-elements/",
+      "readmePath": "Leetcode-practice/2567-minimum-score-by-changing-two-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2567-minimum-score-by-changing-two-elements.java",
+          "path": "Leetcode-practice/2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.java",
+          "sha": "6ba5f99bcd14f1c8ecea419089246fdf9e49cecb",
+          "lastSyncedAt": "2026-11-19T13:48:19.258Z"
         }
       ]
     },
