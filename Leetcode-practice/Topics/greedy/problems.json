@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-19T13:52:30.354Z",
+  "updatedAt": "2026-11-19T13:53:18.276Z",
   "problems": [
     {
       "frontendId": "1727",
@@ -64,6 +64,26 @@
           "path": "Leetcode-practice/2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.java",
           "sha": "52b6f8f72c2f722f8bba2375e4f9415e6cced328",
           "lastSyncedAt": "2026-11-19T13:50:47.419Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3296",
+      "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+      "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+      "problemName": "3296-minimum-number-of-seconds-to-make-mountain-height-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "folderPath": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "readmePath": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
+          "path": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
+          "sha": "83adfa25d6814f679d5b1e6191a194ff5c1125fc",
+          "lastSyncedAt": "2026-11-19T13:53:18.276Z"
         }
       ]
     },
