@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-19T13:50:18.291Z",
+  "updatedAt": "2026-11-19T13:50:36.495Z",
   "problems": [
     {
       "frontendId": "2747",
@@ -43,7 +43,7 @@
           "filename": "2840-check-if-strings-can-be-made-equal-with-operations-ii.java",
           "path": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.java",
           "sha": "d5d14f3db8df8bcbcb2743c937d08679381f8436",
-          "lastSyncedAt": "2026-11-16T14:58:02.965Z"
+          "lastSyncedAt": "2026-11-19T13:50:36.495Z"
         }
       ]
     },
