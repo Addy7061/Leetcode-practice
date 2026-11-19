@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-17T09:29:03.772Z",
+  "updatedAt": "2026-11-19T13:47:45.642Z",
   "problems": [
     {
       "frontendId": "53",
@@ -83,7 +83,7 @@
           "filename": "2911-minimum-changes-to-make-k-semi-palindromes.java",
           "path": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
           "sha": "42eafbf00380168af97e19ddf8574b268dc3c964",
-          "lastSyncedAt": "2026-11-17T09:29:03.772Z"
+          "lastSyncedAt": "2026-11-19T13:47:45.642Z"
         }
       ]
     }
