@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-11-16T15:00:29.835Z",
+  "updatedAt": "2026-11-19T13:52:54.647Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -23,7 +23,7 @@
           "filename": "1622-fancy-sequence.java",
           "path": "Leetcode-practice/1622-fancy-sequence/1622-fancy-sequence.java",
           "sha": "38a135e8e6e82ea709115f59b9012e01e4b107a9",
-          "lastSyncedAt": "2026-11-16T15:00:29.835Z"
+          "lastSyncedAt": "2026-11-19T13:52:54.647Z"
         }
       ]
     }
