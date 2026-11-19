@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-16T14:58:12.000Z",
+  "updatedAt": "2026-11-19T13:50:47.419Z",
   "problems": [
     {
       "frontendId": "2573",
@@ -23,7 +23,7 @@
           "filename": "2573-find-the-string-with-lcp.java",
           "path": "Leetcode-practice/2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.java",
           "sha": "52b6f8f72c2f722f8bba2375e4f9415e6cced328",
-          "lastSyncedAt": "2026-11-16T14:58:12.000Z"
+          "lastSyncedAt": "2026-11-19T13:50:47.419Z"
         }
       ]
     }
