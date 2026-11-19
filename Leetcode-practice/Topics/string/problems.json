@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-19T13:54:59.460Z",
+  "updatedAt": "2026-11-19T13:55:13.856Z",
   "problems": [
     {
       "frontendId": "1415",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.java",
           "sha": "a3278b1aad17f5d171b53e5f261e1610587ed0c5",
           "lastSyncedAt": "2026-11-19T13:53:07.969Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1545",
+      "title": "Find Kth Bit in Nth Binary String",
+      "slug": "find-kth-bit-in-nth-binary-string",
+      "problemName": "1545-find-kth-bit-in-nth-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+      "folderPath": "Leetcode-practice/1545-find-kth-bit-in-nth-binary-string/",
+      "readmePath": "Leetcode-practice/1545-find-kth-bit-in-nth-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1545-find-kth-bit-in-nth-binary-string.java",
+          "path": "Leetcode-practice/1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.java",
+          "sha": "fd70b8120903a9dbaa7551a1faee60c69a911642",
+          "lastSyncedAt": "2026-11-19T13:55:13.856Z"
         }
       ]
     },
