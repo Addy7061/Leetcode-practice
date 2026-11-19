@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-19T13:55:13.856Z",
+  "updatedAt": "2026-11-19T13:55:27.357Z",
   "problems": [
     {
       "frontendId": "1415",
@@ -44,6 +44,26 @@
           "path": "Leetcode-practice/1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.java",
           "sha": "fd70b8120903a9dbaa7551a1faee60c69a911642",
           "lastSyncedAt": "2026-11-19T13:55:13.856Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1689",
+      "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+      "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+      "problemName": "1689-partitioning-into-minimum-number-of-deci-binary-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+      "folderPath": "Leetcode-practice/1689-partitioning-into-minimum-number-of-deci-binary-numbers/",
+      "readmePath": "Leetcode-practice/1689-partitioning-into-minimum-number-of-deci-binary-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1689-partitioning-into-minimum-number-of-deci-binary-numbers.java",
+          "path": "Leetcode-practice/1689-partitioning-into-minimum-number-of-deci-binary-numbers/1689-partitioning-into-minimum-number-of-deci-binary-numbers.java",
+          "sha": "c4831f69bd8b31d775be30e9f67d619cfa9d19f9",
+          "lastSyncedAt": "2026-11-19T13:55:27.357Z"
         }
       ]
     },
