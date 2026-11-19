@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-19T13:50:47.419Z",
+  "updatedAt": "2026-11-19T13:53:35.056Z",
   "problems": [
     {
       "frontendId": "2573",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.java",
           "sha": "52b6f8f72c2f722f8bba2375e4f9415e6cced328",
           "lastSyncedAt": "2026-11-19T13:50:47.419Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3600",
+      "title": "Maximize Spanning Tree Stability with Upgrades",
+      "slug": "maximize-spanning-tree-stability-with-upgrades",
+      "problemName": "3600-maximize-spanning-tree-stability-with-upgrades",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
+      "folderPath": "Leetcode-practice/3600-maximize-spanning-tree-stability-with-upgrades/",
+      "readmePath": "Leetcode-practice/3600-maximize-spanning-tree-stability-with-upgrades/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3600-maximize-spanning-tree-stability-with-upgrades.java",
+          "path": "Leetcode-practice/3600-maximize-spanning-tree-stability-with-upgrades/3600-maximize-spanning-tree-stability-with-upgrades.java",
+          "sha": "4e366afca34424986d4804db4280b6443ba5fda4",
+          "lastSyncedAt": "2026-11-19T13:53:35.056Z"
         }
       ]
     }
