@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-19T13:47:52.417Z",
+  "updatedAt": "2026-11-19T13:53:07.969Z",
   "problems": [
     {
       "frontendId": "89",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/0089-gray-code/0089-gray-code.java",
           "sha": "5f31f7cbbb1a1691e825483618c243621dc58aa4",
           "lastSyncedAt": "2026-11-19T13:47:52.417Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1415",
+      "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+      "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "problemName": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "folderPath": "Leetcode-practice/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "readmePath": "Leetcode-practice/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.java",
+          "path": "Leetcode-practice/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.java",
+          "sha": "a3278b1aad17f5d171b53e5f261e1610587ed0c5",
+          "lastSyncedAt": "2026-11-19T13:53:07.969Z"
         }
       ]
     }
