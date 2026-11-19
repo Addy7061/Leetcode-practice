@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T13:52:39.303Z",
+  "updatedAt": "2026-11-19T13:53:18.276Z",
   "problems": [
     {
       "frontendId": "4",
@@ -464,6 +464,26 @@
           "path": "Leetcode-practice/3212-count-submatrices-with-equal-frequency-of-x-and-y/3212-count-submatrices-with-equal-frequency-of-x-and-y.java",
           "sha": "eec8009b8d34f1e4ffa9159753e4df63fbef6cb1",
           "lastSyncedAt": "2026-11-19T13:52:22.096Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3296",
+      "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+      "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+      "problemName": "3296-minimum-number-of-seconds-to-make-mountain-height-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "folderPath": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "readmePath": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
+          "path": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
+          "sha": "83adfa25d6814f679d5b1e6191a194ff5c1125fc",
+          "lastSyncedAt": "2026-11-19T13:53:18.276Z"
         }
       ]
     },
