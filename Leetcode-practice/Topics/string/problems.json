@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-19T13:54:08.671Z",
+  "updatedAt": "2026-11-19T13:54:23.602Z",
   "problems": [
     {
       "frontendId": "1415",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.java",
           "sha": "a3278b1aad17f5d171b53e5f261e1610587ed0c5",
           "lastSyncedAt": "2026-11-19T13:53:07.969Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "problemName": "1980-find-unique-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "folderPath": "Leetcode-practice/1980-find-unique-binary-string/",
+      "readmePath": "Leetcode-practice/1980-find-unique-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1980-find-unique-binary-string.java",
+          "path": "Leetcode-practice/1980-find-unique-binary-string/1980-find-unique-binary-string.java",
+          "sha": "ee343a924900fc4d3e4157527e83ae344ac4cce2",
+          "lastSyncedAt": "2026-11-19T13:54:23.602Z"
         }
       ]
     },
