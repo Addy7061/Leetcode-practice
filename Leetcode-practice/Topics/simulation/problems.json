@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-19T13:51:02.834Z",
+  "updatedAt": "2026-11-19T13:55:13.856Z",
   "problems": [
+    {
+      "frontendId": "1545",
+      "title": "Find Kth Bit in Nth Binary String",
+      "slug": "find-kth-bit-in-nth-binary-string",
+      "problemName": "1545-find-kth-bit-in-nth-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+      "folderPath": "Leetcode-practice/1545-find-kth-bit-in-nth-binary-string/",
+      "readmePath": "Leetcode-practice/1545-find-kth-bit-in-nth-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1545-find-kth-bit-in-nth-binary-string.java",
+          "path": "Leetcode-practice/1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.java",
+          "sha": "fd70b8120903a9dbaa7551a1faee60c69a911642",
+          "lastSyncedAt": "2026-11-19T13:55:13.856Z"
+        }
+      ]
+    },
     {
       "frontendId": "2243",
       "title": "Calculate Digit Sum of a String",
