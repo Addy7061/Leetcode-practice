@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-19T13:52:39.303Z",
+  "updatedAt": "2026-11-19T13:54:02.688Z",
   "problems": [
     {
       "frontendId": "1878",
@@ -64,6 +64,26 @@
           "path": "Leetcode-practice/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.java",
           "sha": "0bdbc8c7db995a97a2cd6ad36f37b084bce45811",
           "lastSyncedAt": "2026-11-19T13:52:14.353Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3130",
+      "title": "Find All Possible Stable Binary Arrays II",
+      "slug": "find-all-possible-stable-binary-arrays-ii",
+      "problemName": "3130-find-all-possible-stable-binary-arrays-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/",
+      "folderPath": "Leetcode-practice/3130-find-all-possible-stable-binary-arrays-ii/",
+      "readmePath": "Leetcode-practice/3130-find-all-possible-stable-binary-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3130-find-all-possible-stable-binary-arrays-ii.java",
+          "path": "Leetcode-practice/3130-find-all-possible-stable-binary-arrays-ii/3130-find-all-possible-stable-binary-arrays-ii.java",
+          "sha": "f49333e245629f94c4b315c67591467a61b77c02",
+          "lastSyncedAt": "2026-11-19T13:54:02.688Z"
         }
       ]
     },
