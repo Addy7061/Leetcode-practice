@@ -5,8 +5,28 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-19T13:48:24.356Z",
+  "updatedAt": "2026-11-19T13:54:38.203Z",
   "problems": [
+    {
+      "frontendId": "1888",
+      "title": "Minimum Number of Flips to Make the Binary String Alternating",
+      "slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+      "problemName": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/",
+      "folderPath": "Leetcode-practice/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/",
+      "readmePath": "Leetcode-practice/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating.java",
+          "path": "Leetcode-practice/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.java",
+          "sha": "8492348fb54278f824f927c1c537249c4f79f8d7",
+          "lastSyncedAt": "2026-11-19T13:54:38.203Z"
+        }
+      ]
+    },
     {
       "frontendId": "2747",
       "title": "Count Zero Request Servers",
