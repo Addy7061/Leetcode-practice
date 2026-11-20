@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-20T07:17:25.180Z",
+  "updatedAt": "2026-11-20T07:17:30.584Z",
   "problems": [
     {
       "frontendId": "4",
@@ -43,7 +43,7 @@
           "filename": "0033-search-in-rotated-sorted-array.java",
           "path": "Leetcode-practice/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.java",
           "sha": "8f66ffc84e87431831a080009f2faa0c0ccbdee8",
-          "lastSyncedAt": "2026-11-19T13:49:46.919Z"
+          "lastSyncedAt": "2026-11-20T07:17:30.584Z"
         }
       ]
     },
