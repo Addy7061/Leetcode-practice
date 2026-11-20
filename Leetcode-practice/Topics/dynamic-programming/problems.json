@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-20T07:15:41.680Z",
+  "updatedAt": "2026-11-20T07:16:22.913Z",
   "problems": [
     {
       "frontendId": "53",
@@ -124,6 +124,26 @@
           "path": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
           "sha": "42eafbf00380168af97e19ddf8574b268dc3c964",
           "lastSyncedAt": "2026-11-20T07:15:41.680Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3041",
+      "title": "Maximize Consecutive Elements in an Array After Modification",
+      "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+      "problemName": "3041-maximize-consecutive-elements-in-an-array-after-modification",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
+      "folderPath": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/",
+      "readmePath": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3041-maximize-consecutive-elements-in-an-array-after-modification.java",
+          "path": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/3041-maximize-consecutive-elements-in-an-array-after-modification.java",
+          "sha": "c5c7da78615fa8689e9c9ba3e2703e1598144b61",
+          "lastSyncedAt": "2026-11-20T07:16:22.913Z"
         }
       ]
     },
