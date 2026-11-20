@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-20T07:17:43.527Z",
+  "updatedAt": "2026-11-20T07:17:48.006Z",
   "problems": [
     {
       "frontendId": "4",
@@ -183,7 +183,7 @@
           "filename": "0704-binary-search.java",
           "path": "Leetcode-practice/0704-binary-search/0704-binary-search.java",
           "sha": "81292450927b01e1a8c0578d04b39fe49fb1c99f",
-          "lastSyncedAt": "2026-11-19T13:50:03.929Z"
+          "lastSyncedAt": "2026-11-20T07:17:48.006Z"
         }
       ]
     },
