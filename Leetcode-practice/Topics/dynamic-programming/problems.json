@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-20T07:16:22.913Z",
+  "updatedAt": "2026-11-20T07:16:55.592Z",
   "problems": [
     {
       "frontendId": "53",
@@ -23,7 +23,7 @@
           "filename": "0053-maximum-subarray.java",
           "path": "Leetcode-practice/0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "3573d72b58668ea2319c499e26d99a09384887f4",
-          "lastSyncedAt": "2026-11-19T13:49:05.560Z"
+          "lastSyncedAt": "2026-11-20T07:16:55.592Z"
         }
       ]
     },
