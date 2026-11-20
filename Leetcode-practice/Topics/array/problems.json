@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-20T07:17:52.723Z",
+  "updatedAt": "2026-11-20T07:18:01.104Z",
   "problems": [
     {
       "frontendId": "4",
@@ -603,7 +603,7 @@
           "filename": "3488-closest-equal-element-queries.java",
           "path": "Leetcode-practice/3488-closest-equal-element-queries/3488-closest-equal-element-queries.java",
           "sha": "9c66f120fa8fda6580ae68e30f31b93cf1aaa0af",
-          "lastSyncedAt": "2026-11-19T13:50:18.291Z"
+          "lastSyncedAt": "2026-11-20T07:18:01.104Z"
         }
       ]
     },
