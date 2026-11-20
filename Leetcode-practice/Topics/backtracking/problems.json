@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-19T13:54:23.602Z",
+  "updatedAt": "2026-11-20T07:15:48.191Z",
   "problems": [
     {
       "frontendId": "89",
@@ -23,7 +23,7 @@
           "filename": "0089-gray-code.java",
           "path": "Leetcode-practice/0089-gray-code/0089-gray-code.java",
           "sha": "5f31f7cbbb1a1691e825483618c243621dc58aa4",
-          "lastSyncedAt": "2026-11-19T13:47:52.417Z"
+          "lastSyncedAt": "2026-11-20T07:15:48.191Z"
         }
       ]
     },
