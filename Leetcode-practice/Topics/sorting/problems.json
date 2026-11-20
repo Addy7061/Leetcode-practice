@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-20T07:16:13.111Z",
+  "updatedAt": "2026-11-20T07:16:22.913Z",
   "problems": [
     {
       "frontendId": "88",
@@ -184,6 +184,26 @@
           "path": "Leetcode-practice/2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.java",
           "sha": "d5d14f3db8df8bcbcb2743c937d08679381f8436",
           "lastSyncedAt": "2026-11-19T13:50:36.495Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3041",
+      "title": "Maximize Consecutive Elements in an Array After Modification",
+      "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+      "problemName": "3041-maximize-consecutive-elements-in-an-array-after-modification",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
+      "folderPath": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/",
+      "readmePath": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3041-maximize-consecutive-elements-in-an-array-after-modification.java",
+          "path": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/3041-maximize-consecutive-elements-in-an-array-after-modification.java",
+          "sha": "c5c7da78615fa8689e9c9ba3e2703e1598144b61",
+          "lastSyncedAt": "2026-11-20T07:16:22.913Z"
         }
       ]
     },
