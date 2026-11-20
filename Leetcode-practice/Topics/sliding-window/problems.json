@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-19T13:54:38.203Z",
+  "updatedAt": "2026-11-20T07:15:14.495Z",
   "problems": [
     {
       "frontendId": "1888",
@@ -44,6 +44,26 @@
           "path": "Leetcode-practice/2747-count-zero-request-servers/2747-count-zero-request-servers.java",
           "sha": "536c9445b90f2241675aee77ecd426cafd40968f",
           "lastSyncedAt": "2026-11-19T13:48:24.356Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "Leetcode-practice/3364-minimum-positive-sum-subarray/",
+      "readmePath": "Leetcode-practice/3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3364-minimum-positive-sum-subarray.java",
+          "path": "Leetcode-practice/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.java",
+          "sha": "4825b2bba66a51e690b028855d3d67d1c12fbe54",
+          "lastSyncedAt": "2026-11-20T07:15:14.495Z"
         }
       ]
     }
