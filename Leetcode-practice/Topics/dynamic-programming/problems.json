@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T13:54:38.203Z",
+  "updatedAt": "2026-11-20T07:15:23.651Z",
   "problems": [
     {
       "frontendId": "53",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "3573d72b58668ea2319c499e26d99a09384887f4",
           "lastSyncedAt": "2026-11-19T13:49:05.560Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1524",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "slug": "number-of-sub-arrays-with-odd-sum",
+      "problemName": "1524-number-of-sub-arrays-with-odd-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+      "folderPath": "Leetcode-practice/1524-number-of-sub-arrays-with-odd-sum/",
+      "readmePath": "Leetcode-practice/1524-number-of-sub-arrays-with-odd-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1524-number-of-sub-arrays-with-odd-sum.java",
+          "path": "Leetcode-practice/1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.java",
+          "sha": "87ab68cc94da6328c668d9fea62881335ca87561",
+          "lastSyncedAt": "2026-11-20T07:15:23.651Z"
         }
       ]
     },
