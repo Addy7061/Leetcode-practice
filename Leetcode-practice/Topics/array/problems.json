@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-20T07:16:13.111Z",
+  "updatedAt": "2026-11-20T07:16:22.913Z",
   "problems": [
     {
       "frontendId": "4",
@@ -484,6 +484,26 @@
           "path": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.java",
           "sha": "98a1938ef88c714cb7aba6504ac7fafd80c31f04",
           "lastSyncedAt": "2026-11-19T13:51:02.834Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3041",
+      "title": "Maximize Consecutive Elements in an Array After Modification",
+      "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+      "problemName": "3041-maximize-consecutive-elements-in-an-array-after-modification",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
+      "folderPath": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/",
+      "readmePath": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3041-maximize-consecutive-elements-in-an-array-after-modification.java",
+          "path": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/3041-maximize-consecutive-elements-in-an-array-after-modification.java",
+          "sha": "c5c7da78615fa8689e9c9ba3e2703e1598144b61",
+          "lastSyncedAt": "2026-11-20T07:16:22.913Z"
         }
       ]
     },
