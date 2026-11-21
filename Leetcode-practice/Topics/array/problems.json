@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T14:03:21.853Z",
+  "updatedAt": "2026-11-21T14:03:33.450Z",
   "problems": [
     {
       "frontendId": "4",
@@ -564,6 +564,26 @@
           "path": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
           "sha": "83adfa25d6814f679d5b1e6191a194ff5c1125fc",
           "lastSyncedAt": "2026-11-19T13:53:18.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3331",
+      "title": "Find Subtree Sizes After Changes",
+      "slug": "find-subtree-sizes-after-changes",
+      "problemName": "3331-find-subtree-sizes-after-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+      "folderPath": "Leetcode-practice/3331-find-subtree-sizes-after-changes/",
+      "readmePath": "Leetcode-practice/3331-find-subtree-sizes-after-changes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3331-find-subtree-sizes-after-changes.java",
+          "path": "Leetcode-practice/3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.java",
+          "sha": "7b1d69110c812d393a4e3bdb40c6705497201813",
+          "lastSyncedAt": "2026-11-21T14:03:33.450Z"
         }
       ]
     },
