@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-20T07:15:48.191Z",
+  "updatedAt": "2026-11-21T14:04:09.444Z",
   "problems": [
     {
       "frontendId": "89",
@@ -23,7 +23,7 @@
           "filename": "0089-gray-code.java",
           "path": "Leetcode-practice/0089-gray-code/0089-gray-code.java",
           "sha": "5f31f7cbbb1a1691e825483618c243621dc58aa4",
-          "lastSyncedAt": "2026-11-20T07:15:48.191Z"
+          "lastSyncedAt": "2026-11-21T14:04:09.444Z"
         }
       ]
     },
