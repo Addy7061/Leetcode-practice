@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T13:14:58.629Z",
+  "updatedAt": "2026-11-22T13:15:33.941Z",
   "problems": [
     {
       "frontendId": "1415",
@@ -144,6 +144,26 @@
           "path": "Leetcode-practice/1980-find-unique-binary-string/1980-find-unique-binary-string.java",
           "sha": "ee343a924900fc4d3e4157527e83ae344ac4cce2",
           "lastSyncedAt": "2026-11-19T13:54:23.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "problemName": "2124-check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "folderPath": "Leetcode-practice/2124-check-if-all-as-appears-before-all-bs/",
+      "readmePath": "Leetcode-practice/2124-check-if-all-as-appears-before-all-bs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.java",
+          "path": "Leetcode-practice/2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.java",
+          "sha": "6cf66f0699c0c4ef6101069633b7832ca71f334b",
+          "lastSyncedAt": "2026-11-22T13:15:33.941Z"
         }
       ]
     },
