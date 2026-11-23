@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T08:54:28.457Z",
+  "updatedAt": "2026-11-23T08:54:35.531Z",
   "problems": [
     {
       "frontendId": "4",
@@ -423,7 +423,7 @@
           "filename": "2567-minimum-score-by-changing-two-elements.java",
           "path": "Leetcode-practice/2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.java",
           "sha": "6ba5f99bcd14f1c8ecea419089246fdf9e49cecb",
-          "lastSyncedAt": "2026-11-22T13:14:37.920Z"
+          "lastSyncedAt": "2026-11-23T08:54:35.531Z"
         }
       ]
     },
