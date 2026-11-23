@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-22T13:14:51.393Z",
+  "updatedAt": "2026-11-23T08:54:09.205Z",
   "problems": [
     {
       "frontendId": "89",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/0089-gray-code/0089-gray-code.java",
           "sha": "5f31f7cbbb1a1691e825483618c243621dc58aa4",
           "lastSyncedAt": "2026-11-22T13:14:51.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "Leetcode-practice/1352-product-of-the-last-k-numbers/",
+      "readmePath": "Leetcode-practice/1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1352-product-of-the-last-k-numbers.java",
+          "path": "Leetcode-practice/1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.java",
+          "sha": "934d5de2e26558daedc06954d92a6b2edb826cc9",
+          "lastSyncedAt": "2026-11-23T08:54:09.205Z"
         }
       ]
     },
