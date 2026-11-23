@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-19T13:52:54.647Z",
+  "updatedAt": "2026-11-23T08:54:09.205Z",
   "problems": [
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "Leetcode-practice/1352-product-of-the-last-k-numbers/",
+      "readmePath": "Leetcode-practice/1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1352-product-of-the-last-k-numbers.java",
+          "path": "Leetcode-practice/1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.java",
+          "sha": "934d5de2e26558daedc06954d92a6b2edb826cc9",
+          "lastSyncedAt": "2026-11-23T08:54:09.205Z"
+        }
+      ]
+    },
     {
       "frontendId": "1622",
       "title": "Fancy Sequence",
