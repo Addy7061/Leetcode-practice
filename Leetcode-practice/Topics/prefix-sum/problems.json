@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-23T08:54:09.205Z",
+  "updatedAt": "2026-11-23T08:54:19.915Z",
   "problems": [
     {
       "frontendId": "1352",
@@ -183,7 +183,7 @@
           "filename": "3364-minimum-positive-sum-subarray.java",
           "path": "Leetcode-practice/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.java",
           "sha": "4825b2bba66a51e690b028855d3d67d1c12fbe54",
-          "lastSyncedAt": "2026-11-22T13:14:19.207Z"
+          "lastSyncedAt": "2026-11-23T08:54:19.915Z"
         }
       ]
     },
