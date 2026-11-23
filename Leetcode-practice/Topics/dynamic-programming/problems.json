@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T08:54:06.380Z",
+  "updatedAt": "2026-11-23T08:54:28.457Z",
   "problems": [
     {
       "frontendId": "53",
@@ -43,7 +43,7 @@
           "filename": "1524-number-of-sub-arrays-with-odd-sum.java",
           "path": "Leetcode-practice/1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.java",
           "sha": "87ab68cc94da6328c668d9fea62881335ca87561",
-          "lastSyncedAt": "2026-11-22T13:14:26.664Z"
+          "lastSyncedAt": "2026-11-23T08:54:28.457Z"
         }
       ]
     },
