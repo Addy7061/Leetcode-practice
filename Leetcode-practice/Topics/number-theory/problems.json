@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-19T13:52:54.647Z",
+  "updatedAt": "2026-11-24T11:00:40.051Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -24,6 +24,26 @@
           "path": "Leetcode-practice/1622-fancy-sequence/1622-fancy-sequence.java",
           "sha": "38a135e8e6e82ea709115f59b9012e01e4b107a9",
           "lastSyncedAt": "2026-11-19T13:52:54.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3411",
+      "title": "Maximum Subarray With Equal Products",
+      "slug": "maximum-subarray-with-equal-products",
+      "problemName": "3411-maximum-subarray-with-equal-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+      "folderPath": "Leetcode-practice/3411-maximum-subarray-with-equal-products/",
+      "readmePath": "Leetcode-practice/3411-maximum-subarray-with-equal-products/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3411-maximum-subarray-with-equal-products.java",
+          "path": "Leetcode-practice/3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.java",
+          "sha": "9cb0fbd1dfe12b1e2e5044c13bc9194f1b98c7df",
+          "lastSyncedAt": "2026-11-24T11:00:40.051Z"
         }
       ]
     }
