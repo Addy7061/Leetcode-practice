@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-23T08:54:19.915Z",
+  "updatedAt": "2026-11-24T11:00:40.051Z",
   "problems": [
     {
       "frontendId": "1888",
@@ -64,6 +64,26 @@
           "path": "Leetcode-practice/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.java",
           "sha": "4825b2bba66a51e690b028855d3d67d1c12fbe54",
           "lastSyncedAt": "2026-11-23T08:54:19.915Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3411",
+      "title": "Maximum Subarray With Equal Products",
+      "slug": "maximum-subarray-with-equal-products",
+      "problemName": "3411-maximum-subarray-with-equal-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+      "folderPath": "Leetcode-practice/3411-maximum-subarray-with-equal-products/",
+      "readmePath": "Leetcode-practice/3411-maximum-subarray-with-equal-products/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3411-maximum-subarray-with-equal-products.java",
+          "path": "Leetcode-practice/3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.java",
+          "sha": "9cb0fbd1dfe12b1e2e5044c13bc9194f1b98c7df",
+          "lastSyncedAt": "2026-11-24T11:00:40.051Z"
         }
       ]
     }
