@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 18 | 28 | 8 |
+| 55 | 19 | 28 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 12 days | 42 |
+| 6 days | 12 days | 43 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-03-30 | 2 |
 | 2026-04-01 | 1 |
 | 2026-04-16 | 1 |
 | 2026-04-17 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 1 |
 | 2026-11-22 | 1 |
 | 2026-11-23 | 1 |
+| 2026-11-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 65% |
-| Matrix | 15 | 28% |
-| String | 15 | 28% |
-| Binary Search | 10 | 19% |
-| Prefix Sum | 10 | 19% |
-| Sorting | 10 | 19% |
+| Array | 36 | 65% |
+| Matrix | 15 | 27% |
+| String | 15 | 27% |
+| Binary Search | 10 | 18% |
+| Prefix Sum | 10 | 18% |
+| Sorting | 10 | 18% |
 | Dynamic Programming | 8 | 15% |
 | Greedy | 8 | 15% |
+| Math | 8 | 15% |
 | Hash Table | 7 | 13% |
-| Math | 7 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 37 |
+| [Array](Topics/array/) | 38 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -61,24 +61,24 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 9 |
-| [Enumeration](Topics/enumeration/) | 2 |
+| [Enumeration](Topics/enumeration/) | 3 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 8 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 16 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
-| [Number Theory](Topics/number-theory/) | 1 |
+| [Number Theory](Topics/number-theory/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 11 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 3 |
+| [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 16 |
