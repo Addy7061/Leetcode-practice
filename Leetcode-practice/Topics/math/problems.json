@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-23T08:54:48.828Z",
+  "updatedAt": "2026-11-24T11:00:40.051Z",
   "problems": [
     {
       "frontendId": "89",
@@ -164,6 +164,26 @@
           "path": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
           "sha": "83adfa25d6814f679d5b1e6191a194ff5c1125fc",
           "lastSyncedAt": "2026-11-19T13:53:18.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3411",
+      "title": "Maximum Subarray With Equal Products",
+      "slug": "maximum-subarray-with-equal-products",
+      "problemName": "3411-maximum-subarray-with-equal-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+      "folderPath": "Leetcode-practice/3411-maximum-subarray-with-equal-products/",
+      "readmePath": "Leetcode-practice/3411-maximum-subarray-with-equal-products/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3411-maximum-subarray-with-equal-products.java",
+          "path": "Leetcode-practice/3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.java",
+          "sha": "9cb0fbd1dfe12b1e2e5044c13bc9194f1b98c7df",
+          "lastSyncedAt": "2026-11-24T11:00:40.051Z"
         }
       ]
     },
