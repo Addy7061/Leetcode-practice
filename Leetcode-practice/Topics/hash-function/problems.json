@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-function",
+    "name": "Hash Function",
+    "tagId": "61065"
+  },
+  "updatedAt": "2026-11-25T13:11:01.925Z",
+  "problems": [
+    {
+      "frontendId": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "problemName": "3934-smallest-unique-subarray",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-unique-subarray/",
+      "folderPath": "Leetcode-practice/3934-smallest-unique-subarray/",
+      "readmePath": "Leetcode-practice/3934-smallest-unique-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3934-smallest-unique-subarray.java",
+          "path": "Leetcode-practice/3934-smallest-unique-subarray/3934-smallest-unique-subarray.java",
+          "sha": "944219e15b0412d7d834975e8d65692482b8c535",
+          "lastSyncedAt": "2026-11-25T13:11:01.925Z"
+        }
+      ]
+    }
+  ]
+}
