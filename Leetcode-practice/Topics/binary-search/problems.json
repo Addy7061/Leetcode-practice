@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-22T13:15:47.072Z",
+  "updatedAt": "2026-11-25T13:10:24.021Z",
   "problems": [
     {
       "frontendId": "4",
@@ -204,6 +204,26 @@
           "path": "Leetcode-practice/3600-maximize-spanning-tree-stability-with-upgrades/3600-maximize-spanning-tree-stability-with-upgrades.java",
           "sha": "4e366afca34424986d4804db4280b6443ba5fda4",
           "lastSyncedAt": "2026-11-19T13:53:35.056Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "problemName": "3934-smallest-unique-subarray",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-unique-subarray/",
+      "folderPath": "Leetcode-practice/3934-smallest-unique-subarray/",
+      "readmePath": "Leetcode-practice/3934-smallest-unique-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3934-smallest-unique-subarray.java",
+          "path": "Leetcode-practice/3934-smallest-unique-subarray/3934-smallest-unique-subarray.java",
+          "sha": "944219e15b0412d7d834975e8d65692482b8c535",
+          "lastSyncedAt": "2026-11-25T13:10:24.021Z"
         }
       ]
     }
