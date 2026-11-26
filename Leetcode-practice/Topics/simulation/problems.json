@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-23T08:54:55.604Z",
+  "updatedAt": "2026-11-26T13:41:24.950Z",
   "problems": [
     {
       "frontendId": "1545",
@@ -64,6 +64,26 @@
           "path": "Leetcode-practice/2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.java",
           "sha": "98a1938ef88c714cb7aba6504ac7fafd80c31f04",
           "lastSyncedAt": "2026-11-19T13:51:02.834Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3360",
+      "title": "Stone Removal Game",
+      "slug": "stone-removal-game",
+      "problemName": "3360-stone-removal-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-removal-game/",
+      "folderPath": "Leetcode-practice/3360-stone-removal-game/",
+      "readmePath": "Leetcode-practice/3360-stone-removal-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3360-stone-removal-game.java",
+          "path": "Leetcode-practice/3360-stone-removal-game/3360-stone-removal-game.java",
+          "sha": "c934ad8649ce6588789e09dfe169a57986bd4918",
+          "lastSyncedAt": "2026-11-26T13:41:24.950Z"
         }
       ]
     }
