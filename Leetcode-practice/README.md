@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 19 | 28 | 8 |
+| 56 | 20 | 28 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 12 days | 43 |
+| 1 days | 12 days | 44 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-04-01 | 1 |
 | 2026-04-16 | 1 |
 | 2026-04-17 | 1 |
 | 2026-07-27 | 4 |
@@ -29,29 +28,30 @@ Contains topicwise list of solved problems.
 | 2026-11-22 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-24 | 1 |
+| 2026-11-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 36 | 65% |
+| Array | 36 | 64% |
 | Matrix | 15 | 27% |
 | String | 15 | 27% |
 | Binary Search | 10 | 18% |
 | Prefix Sum | 10 | 18% |
 | Sorting | 10 | 18% |
-| Dynamic Programming | 8 | 15% |
-| Greedy | 8 | 15% |
-| Math | 8 | 15% |
+| Math | 9 | 16% |
+| Dynamic Programming | 8 | 14% |
+| Greedy | 8 | 14% |
 | Hash Table | 7 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 39 |
 | [Backtracking](Topics/backtracking/) | 3 |
-| [Binary Search](Topics/binary-search/) | 10 |
+| [Binary Search](Topics/binary-search/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -65,9 +65,10 @@ Contains topicwise list of solved problems.
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Function](Topics/hash-function/) | 1 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
-| [Math](Topics/math/) | 10 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 16 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
@@ -76,13 +77,15 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
+| [Rolling Hash](Topics/rolling-hash/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 3 |
+| [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 16 |
 | [String Matching](Topics/string-matching/) | 1 |
+| [Suffix Array](Topics/suffix-array/) | 1 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 | [Union-Find](Topics/union-find/) | 2 |
