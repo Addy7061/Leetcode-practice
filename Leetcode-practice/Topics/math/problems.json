@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-24T11:00:40.051Z",
+  "updatedAt": "2026-11-26T13:41:24.950Z",
   "problems": [
     {
       "frontendId": "89",
@@ -164,6 +164,26 @@
           "path": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
           "sha": "83adfa25d6814f679d5b1e6191a194ff5c1125fc",
           "lastSyncedAt": "2026-11-19T13:53:18.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3360",
+      "title": "Stone Removal Game",
+      "slug": "stone-removal-game",
+      "problemName": "3360-stone-removal-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-removal-game/",
+      "folderPath": "Leetcode-practice/3360-stone-removal-game/",
+      "readmePath": "Leetcode-practice/3360-stone-removal-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3360-stone-removal-game.java",
+          "path": "Leetcode-practice/3360-stone-removal-game/3360-stone-removal-game.java",
+          "sha": "c934ad8649ce6588789e09dfe169a57986bd4918",
+          "lastSyncedAt": "2026-11-26T13:41:24.950Z"
         }
       ]
     },
