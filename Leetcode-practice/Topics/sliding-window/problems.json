@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-26T13:42:41.570Z",
+  "updatedAt": "2026-11-26T13:43:42.600Z",
   "problems": [
     {
       "frontendId": "1888",
@@ -63,7 +63,7 @@
           "filename": "3364-minimum-positive-sum-subarray.java",
           "path": "Leetcode-practice/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.java",
           "sha": "4825b2bba66a51e690b028855d3d67d1c12fbe54",
-          "lastSyncedAt": "2026-11-23T08:54:19.915Z"
+          "lastSyncedAt": "2026-11-26T13:43:42.600Z"
         }
       ]
     },
