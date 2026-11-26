@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-24T11:00:40.051Z",
+  "updatedAt": "2026-11-26T13:42:41.570Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -43,7 +43,7 @@
           "filename": "3411-maximum-subarray-with-equal-products.java",
           "path": "Leetcode-practice/3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.java",
           "sha": "9cb0fbd1dfe12b1e2e5044c13bc9194f1b98c7df",
-          "lastSyncedAt": "2026-11-24T11:00:40.051Z"
+          "lastSyncedAt": "2026-11-26T13:42:41.570Z"
         }
       ]
     }
