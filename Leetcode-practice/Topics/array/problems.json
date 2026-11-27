@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T13:44:00.734Z",
+  "updatedAt": "2026-11-27T09:34:23.703Z",
   "problems": [
     {
       "frontendId": "4",
@@ -784,6 +784,26 @@
           "path": "Leetcode-practice/3934-smallest-unique-subarray/3934-smallest-unique-subarray.java",
           "sha": "944219e15b0412d7d834975e8d65692482b8c535",
           "lastSyncedAt": "2026-11-26T13:42:24.833Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "problemName": "3946-maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+      "folderPath": "Leetcode-practice/3946-maximum-number-of-items-from-sale-i/",
+      "readmePath": "Leetcode-practice/3946-maximum-number-of-items-from-sale-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3946-maximum-number-of-items-from-sale-i.java",
+          "path": "Leetcode-practice/3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.java",
+          "sha": "bc35f66c2811add38b08f5189907d0c461c34c0d",
+          "lastSyncedAt": "2026-11-27T09:34:23.703Z"
         }
       ]
     }
