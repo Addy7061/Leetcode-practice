@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-26T13:44:09.146Z",
+  "updatedAt": "2026-11-27T09:34:23.703Z",
   "problems": [
     {
       "frontendId": "53",
@@ -184,6 +184,26 @@
           "path": "Leetcode-practice/3130-find-all-possible-stable-binary-arrays-ii/3130-find-all-possible-stable-binary-arrays-ii.java",
           "sha": "f49333e245629f94c4b315c67591467a61b77c02",
           "lastSyncedAt": "2026-11-19T13:54:02.688Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "problemName": "3946-maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+      "folderPath": "Leetcode-practice/3946-maximum-number-of-items-from-sale-i/",
+      "readmePath": "Leetcode-practice/3946-maximum-number-of-items-from-sale-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3946-maximum-number-of-items-from-sale-i.java",
+          "path": "Leetcode-practice/3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.java",
+          "sha": "bc35f66c2811add38b08f5189907d0c461c34c0d",
+          "lastSyncedAt": "2026-11-27T09:34:23.703Z"
         }
       ]
     }
