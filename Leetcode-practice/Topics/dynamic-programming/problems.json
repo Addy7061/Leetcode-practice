@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-27T09:34:23.703Z",
+  "updatedAt": "2026-11-27T09:34:52.216Z",
   "problems": [
     {
       "frontendId": "53",
@@ -203,7 +203,7 @@
           "filename": "3946-maximum-number-of-items-from-sale-i.java",
           "path": "Leetcode-practice/3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.java",
           "sha": "bc35f66c2811add38b08f5189907d0c461c34c0d",
-          "lastSyncedAt": "2026-11-27T09:34:23.703Z"
+          "lastSyncedAt": "2026-11-27T09:34:52.216Z"
         }
       ]
     }
