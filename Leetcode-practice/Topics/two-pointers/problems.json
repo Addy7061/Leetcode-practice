@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-28T10:40:37.767Z",
+  "updatedAt": "2026-11-28T10:41:35.848Z",
   "problems": [
     {
       "frontendId": "88",
@@ -23,7 +23,7 @@
           "filename": "0088-merge-sorted-array.java",
           "path": "Leetcode-practice/0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "acf618a3b8d77a9ea5867178f94c6f5bbf62b25a",
-          "lastSyncedAt": "2026-11-22T13:16:16.337Z"
+          "lastSyncedAt": "2026-11-28T10:41:35.848Z"
         }
       ]
     },
