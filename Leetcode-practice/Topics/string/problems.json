@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-28T10:39:01.393Z",
+  "updatedAt": "2026-11-28T10:39:06.645Z",
   "problems": [
     {
       "frontendId": "1415",
@@ -303,7 +303,7 @@
           "filename": "3331-find-subtree-sizes-after-changes.java",
           "path": "Leetcode-practice/3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.java",
           "sha": "7b1d69110c812d393a4e3bdb40c6705497201813",
-          "lastSyncedAt": "2026-11-27T09:35:48.612Z"
+          "lastSyncedAt": "2026-11-28T10:39:06.645Z"
         }
       ]
     },
