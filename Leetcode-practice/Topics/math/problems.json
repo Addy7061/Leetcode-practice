@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-28T10:38:12.258Z",
+  "updatedAt": "2026-11-28T10:38:34.530Z",
   "problems": [
     {
       "frontendId": "89",
@@ -203,7 +203,7 @@
           "filename": "3411-maximum-subarray-with-equal-products.java",
           "path": "Leetcode-practice/3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.java",
           "sha": "9cb0fbd1dfe12b1e2e5044c13bc9194f1b98c7df",
-          "lastSyncedAt": "2026-11-27T09:35:21.669Z"
+          "lastSyncedAt": "2026-11-28T10:38:34.530Z"
         }
       ]
     },
