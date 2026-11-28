@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-28T10:38:34.530Z",
+  "updatedAt": "2026-11-28T10:38:48.494Z",
   "problems": [
     {
       "frontendId": "4",
@@ -223,7 +223,7 @@
           "filename": "1352-product-of-the-last-k-numbers.java",
           "path": "Leetcode-practice/1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.java",
           "sha": "934d5de2e26558daedc06954d92a6b2edb826cc9",
-          "lastSyncedAt": "2026-11-27T09:35:34.341Z"
+          "lastSyncedAt": "2026-11-28T10:38:48.494Z"
         }
       ]
     },
