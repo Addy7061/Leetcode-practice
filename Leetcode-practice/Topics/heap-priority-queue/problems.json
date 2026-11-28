@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-28T10:41:15.454Z",
+  "updatedAt": "2026-11-28T10:41:33.623Z",
   "problems": [
     {
       "frontendId": "215",
@@ -84,6 +84,26 @@
           "path": "Leetcode-practice/3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.java",
           "sha": "83adfa25d6814f679d5b1e6191a194ff5c1125fc",
           "lastSyncedAt": "2026-11-19T13:53:18.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3947",
+      "title": "Maximum Number of Items From Sale II",
+      "slug": "maximum-number-of-items-from-sale-ii",
+      "problemName": "3947-maximum-number-of-items-from-sale-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/",
+      "folderPath": "Leetcode-practice/3947-maximum-number-of-items-from-sale-ii/",
+      "readmePath": "Leetcode-practice/3947-maximum-number-of-items-from-sale-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3947-maximum-number-of-items-from-sale-ii.java",
+          "path": "Leetcode-practice/3947-maximum-number-of-items-from-sale-ii/3947-maximum-number-of-items-from-sale-ii.java",
+          "sha": "1f9bcf7754b93757b294ef349e1b73cb779cd001",
+          "lastSyncedAt": "2026-11-28T10:41:33.623Z"
         }
       ]
     }
