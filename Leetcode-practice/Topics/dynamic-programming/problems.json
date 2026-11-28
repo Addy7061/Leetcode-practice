@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-28T10:38:03.186Z",
+  "updatedAt": "2026-11-28T10:39:19.214Z",
   "problems": [
     {
       "frontendId": "53",
@@ -143,7 +143,7 @@
           "filename": "3041-maximize-consecutive-elements-in-an-array-after-modification.java",
           "path": "Leetcode-practice/3041-maximize-consecutive-elements-in-an-array-after-modification/3041-maximize-consecutive-elements-in-an-array-after-modification.java",
           "sha": "c5c7da78615fa8689e9c9ba3e2703e1598144b61",
-          "lastSyncedAt": "2026-11-26T13:43:27.848Z"
+          "lastSyncedAt": "2026-11-28T10:39:19.214Z"
         }
       ]
     },
