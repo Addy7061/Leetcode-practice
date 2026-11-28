@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-22T13:15:04.016Z",
+  "updatedAt": "2026-11-28T10:40:14.511Z",
   "problems": [
     {
       "frontendId": "94",
@@ -23,7 +23,7 @@
           "filename": "0094-binary-tree-inorder-traversal.java",
           "path": "Leetcode-practice/0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
           "sha": "a37c4cb6b2ce746dfc231e6250b5f6dd907cc07f",
-          "lastSyncedAt": "2026-11-22T13:15:04.016Z"
+          "lastSyncedAt": "2026-11-28T10:40:14.511Z"
         }
       ]
     }
