@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-28T10:39:27.771Z",
+  "updatedAt": "2026-11-28T10:39:52.969Z",
   "problems": [
     {
       "frontendId": "1415",
@@ -263,7 +263,7 @@
           "filename": "2911-minimum-changes-to-make-k-semi-palindromes.java",
           "path": "Leetcode-practice/2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.java",
           "sha": "42eafbf00380168af97e19ddf8574b268dc3c964",
-          "lastSyncedAt": "2026-11-26T13:44:09.146Z"
+          "lastSyncedAt": "2026-11-28T10:39:52.969Z"
         }
       ]
     },
