@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-28T10:41:15.454Z",
+  "updatedAt": "2026-11-28T10:41:33.623Z",
   "problems": [
     {
       "frontendId": "88",
@@ -224,6 +224,26 @@
           "path": "Leetcode-practice/3567-minimum-absolute-difference-in-sliding-submatrix/3567-minimum-absolute-difference-in-sliding-submatrix.cpp",
           "sha": "0fa4269c82e32d3c6558d587386294eca0267595",
           "lastSyncedAt": "2026-11-19T13:52:06.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3947",
+      "title": "Maximum Number of Items From Sale II",
+      "slug": "maximum-number-of-items-from-sale-ii",
+      "problemName": "3947-maximum-number-of-items-from-sale-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/",
+      "folderPath": "Leetcode-practice/3947-maximum-number-of-items-from-sale-ii/",
+      "readmePath": "Leetcode-practice/3947-maximum-number-of-items-from-sale-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3947-maximum-number-of-items-from-sale-ii.java",
+          "path": "Leetcode-practice/3947-maximum-number-of-items-from-sale-ii/3947-maximum-number-of-items-from-sale-ii.java",
+          "sha": "1f9bcf7754b93757b294ef349e1b73cb779cd001",
+          "lastSyncedAt": "2026-11-28T10:41:33.623Z"
         }
       ]
     }
